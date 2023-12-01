@@ -3,12 +3,72 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-11-28T20:37:39+07:00</updated>
+    <updated>2023-12-02T03:55:49+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Aplikasi Desktop YouTube Browser dan Downloader</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html"/>
+        <id>https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html</id>
+        <media:content url="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" medium="image" />
+            <category term="Aplikasi Desktop Electron"/>
+
+        <updated>2023-12-02T03:55:49+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" alt="Aplikasi Desktop YouTube Browser dan Downloader" />
+                    Klik di Sini untuk Modifikasi Aplikasi ini adalah aplikasi browser YouTube sekaligus downloader-nya. YouTube adalah sebuah social media yang berisi video. Video adalah salah satu jenis konten yang sering sering diakses orang akhir-akhir ini. Namun, untuk menonton video YouTube secara offline perlu sedikit trik. Normalnya,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" class="type:primaryImage" alt="Aplikasi Desktop YouTube Browser dan Downloader" /></p>
+                <p class="align-center"><a class="btn coba" style="width: 100%;" href="javascript:void(0);" rel="nofollow noopener noreferrer">Klik di Sini untuk Modifikasi</a></p>
+<p>Aplikasi ini adalah aplikasi browser YouTube sekaligus downloader-nya.</p>
+<h2>Masalah yang Diselesaikan</h2>
+<p>YouTube adalah sebuah social media yang berisi video.</p>
+<p>Video adalah salah satu jenis konten yang sering sering diakses orang akhir-akhir ini.</p>
+<p>Namun, untuk menonton video YouTube secara offline perlu sedikit trik.</p>
+<p>Normalnya, orang menggunakan aplikasi seperti youtube-dl atau yt-dlp untuk men-download video YouTube.</p>
+<p>Sayangnya, bagi yang tidak bisa menggunakan command line, itu akan sedikit merepotkan.</p>
+<p>Dengan aplikasi ini, download video YouTube bisa dilakukan dengan GUI, bahkan sambil browsing.</p>
+<h2>Fitur Aplikasi Ini</h2>
+<p>Fitur utama aplikasi ini adalah:</p>
+<ul>
+<li>Bisa browsing website YouTube</li>
+<li>Bisa download video</li>
+<li>Bisa download playlist</li>
+<li>Browsing sambil mengumpulkan link video</li>
+<li>Download dengan GUI</li>
+</ul>
+<h2>Keunggulan Aplikasi Ini</h2>
+<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa browsing di YouTube.</p>
+<p>Jadi, sambil "jalan-jalan" di YouTube, Anda bisa mengumpulkan link video atau playlist yang menarik kemudian men-download-nya nanti.</p>
+<p>Selain itu, Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
+<h2>Teknologi yang Digunakan</h2>
+<p>Aplikasi ini dibuat menggunakan Electron js dengan Bootstrap CSS.</p>
+<h2>Biaya Modifikasi</h2>
+<p>Perkiraan harga modifikasi aplikasi ini adalah:</p>
+<ul>
+<li>Harga awal (tanpa penambahan fitur) mulai dari Rp. 7.000.000.</li>
+<li>Harga bugfix mulai dari Rp. 200.000 per bugfix</li>
+<li>Harga penambahan fitur mulai dari Rp. 500.000 per fitur</li>
+</ul>
+<h2>Antarmuka</h2>
+<p>Berikut ini adalah screenshot aplikasi ini:</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/24/gallery/electron_RjRxeRPW2c.png" data-size="1010x761"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/24/gallery/electron_RjRxeRPW2c-thumbnail.png" alt="" width="768" height="579"></a></figure>
+<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/24/gallery/electron_WaexUUNAoR.png" data-size="1010x761"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/24/gallery/electron_WaexUUNAoR-thumbnail.png" alt="" width="768" height="579"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aplikasi Desktop Video Player</title>
         <author>
