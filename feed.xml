@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-02T04:02:43+07:00</updated>
+    <updated>2023-12-05T22:49:41+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -391,17 +391,20 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-02T04:01:37+07:00</updated>
+        <updated>2023-12-05T22:49:41+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" alt="Aplikasi Desktop Web Browser Otomatis" />
-                    Klik di Sini untuk Modifikasi Aplikasi ini adalah aplikasi web browser yang bisa dijalankan secara otomatis dengan coding. Kenapa harus coding? Begitu banyak website yang memiliki data-data berharga. Jika data-data tersebut dikumpulkan, boleh jadi itu sangat bermanfaat bagi kita. Tugas aplikasi ini salah satunya adalah&hellip;
+                    Klik di Sini untuk Modifikasi PERINGATAN: Produk ini sementara tidak dijual karena ditemukan bug yang belum bisa diperbaiki. Aplikasi ini adalah aplikasi web browser yang bisa dijalankan secara otomatis dengan coding. Kenapa harus coding? Begitu banyak website yang memiliki data-data berharga. Jika data-data tersebut dikumpulkan,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" class="type:primaryImage" alt="Aplikasi Desktop Web Browser Otomatis" /></p>
-                <p class="align-center"><a class="btn coba" style="width: 100%;" href="javascript:void(0);" rel="nofollow noopener noreferrer">Klik di Sini untuk Modifikasi</a></p>
+                <!--<p class="align-center"><a class="btn coba" style="width: 100%;" href="javascript:void(0);" rel="nofollow noopener noreferrer">Klik di Sini untuk Modifikasi</a></p>-->
+<blockquote>
+<p>PERINGATAN: Produk ini sementara tidak dijual karena ditemukan bug yang belum bisa diperbaiki.</p>
+</blockquote>
 <p>Aplikasi ini adalah aplikasi web browser yang bisa dijalankan secara otomatis dengan coding.</p>
 <h2>Masalah yang Diselesaikan</h2>
 <p>Kenapa harus coding?</p>
