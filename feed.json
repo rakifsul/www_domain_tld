@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.rakifsul.my.id/theme-wordpress-batu-bata.html",
+            "url": "https://www.rakifsul.my.id/theme-wordpress-batu-bata.html",
+            "title": "Theme WordPress Batu Bata",
+            "summary": "Ini adalah theme WordPress bertema batu bata. Cocok untuk blog personal. Harga nego.",
+            "content_html": "<p>Ini adalah theme WordPress bertema batu bata.</p>\n<p>Cocok untuk blog personal.</p>\n<p>Harga nego.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.rakifsul.my.id/media/posts/26/ss.png\" alt=\"\" width=\"600\" height=\"1138\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.rakifsul.my.id/media/posts/26/responsive/ss-xs.png 300w ,https://www.rakifsul.my.id/media/posts/26/responsive/ss-sm.png 480w ,https://www.rakifsul.my.id/media/posts/26/responsive/ss-md.png 768w ,https://www.rakifsul.my.id/media/posts/26/responsive/ss-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/26/responsive/ss-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/26/responsive/ss-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Theme WordPress"
+            ],
+            "date_published": "2023-12-11T00:43:20+07:00",
+            "date_modified": "2023-12-11T00:43:20+07:00"
+        },
+        {
             "id": "https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html",
             "url": "https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html",
             "title": "Aplikasi Desktop YouTube Browser dan Downloader",
@@ -45,8 +60,8 @@
             "id": "https://www.rakifsul.my.id/template-html-company-profile.html",
             "url": "https://www.rakifsul.my.id/template-html-company-profile.html",
             "title": "Template HTML Company Profile",
-            "summary": "Ini adalah template HTML untuk company profile. Template HTML ini dibuat menggunakan Bootstrap. Harga awal mulai dari Rp. 3.000.000.",
-            "content_html": "<p>Ini adalah template HTML untuk company profile.</p>\n<p>Template HTML ini dibuat menggunakan Bootstrap.</p>\n<p>Harga awal mulai dari Rp. 3.000.000.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.rakifsul.my.id/media/posts/21/ss.png\" alt=\"Template HTML Company Profile\" width=\"600\" height=\"1013\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.rakifsul.my.id/media/posts/21/responsive/ss-xs.png 300w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-sm.png 480w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-md.png 768w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-2xl.png 1600w\"></figure>",
+            "summary": "Ini adalah template HTML untuk company profile. Template HTML ini dibuat menggunakan Bootstrap. Harga nego.",
+            "content_html": "<p>Ini adalah template HTML untuk company profile.</p>\n<p>Template HTML ini dibuat menggunakan Bootstrap.</p>\n<p>Harga nego.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.rakifsul.my.id/media/posts/21/ss.png\" alt=\"Template HTML Company Profile\" width=\"600\" height=\"1013\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.rakifsul.my.id/media/posts/21/responsive/ss-xs.png 300w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-sm.png 480w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-md.png 768w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/21/responsive/ss-2xl.png 1600w\"></figure>",
             "image": "https://www.rakifsul.my.id/media/posts/21/cover.png",
             "author": {
                 "name": "RAKIFSUL"
@@ -55,14 +70,14 @@
                    "Template HTML"
             ],
             "date_published": "2023-11-20T00:18:15+07:00",
-            "date_modified": "2023-12-09T03:21:40+07:00"
+            "date_modified": "2023-12-11T00:39:36+07:00"
         },
         {
             "id": "https://www.rakifsul.my.id/template-html-portfolio.html",
             "url": "https://www.rakifsul.my.id/template-html-portfolio.html",
             "title": "Template HTML Portfolio",
-            "summary": "Ini adalah template HTML untuk website portfolio. Dibuat menggunakan Bootstrap. Harga awal mulai dari Rp. 3.000.000.",
-            "content_html": "<p>Ini adalah template HTML untuk website portfolio.</p>\n<p>Dibuat menggunakan Bootstrap.</p>\n<p>Harga awal mulai dari Rp. 3.000.000.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.rakifsul.my.id/media/posts/19/ss-2.png\" alt=\"Template HTML Portfolio\" width=\"1761\" height=\"900\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-xs.png 300w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-sm.png 480w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-md.png 768w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-2xl.png 1600w\"></figure>",
+            "summary": "Ini adalah template HTML untuk website portfolio. Dibuat menggunakan Bootstrap. Harga nego.",
+            "content_html": "<p>Ini adalah template HTML untuk website portfolio.</p>\n<p>Dibuat menggunakan Bootstrap.</p>\n<p>Harga nego.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.rakifsul.my.id/media/posts/19/ss-2.png\" alt=\"Template HTML Portfolio\" width=\"1761\" height=\"900\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-xs.png 300w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-sm.png 480w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-md.png 768w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/19/responsive/ss-2-2xl.png 1600w\"></figure>",
             "image": "https://www.rakifsul.my.id/media/posts/19/ss.png",
             "author": {
                 "name": "RAKIFSUL"
@@ -71,7 +86,7 @@
                    "Template HTML"
             ],
             "date_published": "2023-11-19T14:21:04+07:00",
-            "date_modified": "2023-12-09T03:21:44+07:00"
+            "date_modified": "2023-12-11T00:39:49+07:00"
         },
         {
             "id": "https://www.rakifsul.my.id/aplikasi-desktop-shutdown-otomatis.html",
