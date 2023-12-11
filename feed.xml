@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-11T23:51:52+07:00</updated>
+    <updated>2023-12-12T01:46:16+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -197,16 +197,19 @@
         </author>
         <link href="https://www.rakifsul.my.id/theme-wordpress-batu-bata.html"/>
         <id>https://www.rakifsul.my.id/theme-wordpress-batu-bata.html</id>
+        <media:content url="https://www.rakifsul.my.id/media/posts/26/screenshot.png" medium="image" />
             <category term="Theme WordPress"/>
 
-        <updated>2023-12-11T23:49:41+07:00</updated>
+        <updated>2023-12-12T01:45:30+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.rakifsul.my.id/media/posts/26/screenshot.png" alt="" />
                     Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Ini adalah theme WordPress bertema batu bata. Cocok untuk blog personal.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.rakifsul.my.id/media/posts/26/screenshot.png" class="type:primaryImage" alt="" /></p>
                 <blockquote>
 <p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
 </blockquote>
@@ -901,7 +904,7 @@
         <id>https://www.rakifsul.my.id/kenapa-anda-harus-menggunakan-rakifsul.html</id>
             <category term="Blog"/>
 
-        <updated>2023-12-11T15:45:32+07:00</updated>
+        <updated>2023-12-12T01:46:16+07:00</updated>
             <summary>
                 <![CDATA[
                     Selamat datang di website saya. Sebelumnya, izinkan saya memperkenalkan diri. Saya adalah RAKIFSUL. Hobi saya adalah coding dan menulis. Karena kedua hobi tersebut bisa diuangkan, maka saya memutuskan untuk membuka layanan coding. Skill yang saya kuasai adalah HTML, CSS, JavaScript, PHP, C++, Python, dan GDScript.
@@ -928,7 +931,7 @@
 <p>Oleh karena itu, walaupun saya masih menerima project web, saya lebih cenderung ke desktop.</p>
 <p>Menurut saya ide bagus untuk membuka pasar di platform desktop.</p>
 <p>Apalagi, teknologi untuk pengembangan aplikasi desktop sekarang semakin maju dengan adanya Electron js dan lain-lain.</p>
-<p>Tentunya, saya tetap menerima project web.</p>
+<p>Tentunya, saya tetap menerima project web jika saya mau dan mampu.</p>
 <p>Lalu, apa yang saya lakukan sekarang, khususnya di website ini?</p>
 <p>Di website ini, saya mempublikasi portfolio aplikasi desktop buatan saya.</p>
 <p>Beberapa aplikasi yang saya buat idenya masih baru, sehingga cocok bagi Anda untuk mendapatkan ide.</p>
