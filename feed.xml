@@ -3,12 +3,41 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-12T01:46:16+07:00</updated>
+    <updated>2023-12-15T00:52:52+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Theme WordPress Berbasis Bootstrap</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap.html"/>
+        <id>https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap.html</id>
+        <media:content url="https://www.rakifsul.my.id/media/posts/30/ss-thumbnail.png" medium="image" />
+            <category term="Theme WordPress"/>
+
+        <updated>2023-12-15T00:52:52+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.rakifsul.my.id/media/posts/30/ss-thumbnail.png" alt="" />
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5. Cocok untuk blog personal.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.rakifsul.my.id/media/posts/30/ss-thumbnail.png" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
+</blockquote>
+<p>Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5.</p>
+<p>Cocok untuk blog personal.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/30/ss-2.png" alt="" width="1024" height="2314" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-xs.png 300w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-sm.png 480w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-md.png 768w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aplikasi Web Node.js Company Profile</title>
         <author>

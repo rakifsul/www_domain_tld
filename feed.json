@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap.html",
+            "url": "https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap.html",
+            "title": "Theme WordPress Berbasis Bootstrap",
+            "summary": "Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5. Cocok untuk blog personal.",
+            "content_html": "<blockquote>\n<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>\n</blockquote>\n<p>Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5.</p>\n<p>Cocok untuk blog personal.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.rakifsul.my.id/media/posts/30/ss-2.png\" alt=\"\" width=\"1024\" height=\"2314\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-xs.png 300w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-sm.png 480w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-md.png 768w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/30/responsive/ss-2-2xl.png 1600w\"></figure>",
+            "image": "https://www.rakifsul.my.id/media/posts/30/ss-thumbnail.png",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Theme WordPress"
+            ],
+            "date_published": "2023-12-15T00:48:38+07:00",
+            "date_modified": "2023-12-15T00:52:52+07:00"
+        },
+        {
             "id": "https://www.rakifsul.my.id/aplikasi-web-nodejs-company-profile.html",
             "url": "https://www.rakifsul.my.id/aplikasi-web-nodejs-company-profile.html",
             "title": "Aplikasi Web Node.js Company Profile",
