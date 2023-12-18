@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-19T04:17:24+07:00</updated>
+    <updated>2023-12-19T04:28:26+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -943,7 +943,7 @@
         <id>https://www.rakifsul.my.id/kenapa-anda-harus-menggunakan-rakifsul.html</id>
             <category term="Blog"/>
 
-        <updated>2023-12-16T05:26:34+07:00</updated>
+        <updated>2023-12-19T04:28:26+07:00</updated>
             <summary>
                 <![CDATA[
                     Selamat datang di website saya. Sebelumnya, izinkan saya memperkenalkan diri. Saya adalah RAKIFSUL. Hobi saya adalah coding dan menulis. Karena kedua hobi tersebut bisa diuangkan, maka saya memutuskan untuk membuka layanan coding. Skill yang saya kuasai adalah HTML, CSS, JavaScript, PHP, C++, Python, dan GDScript.
@@ -976,11 +976,11 @@
 <p>Beberapa aplikasi yang saya buat idenya masih baru, sehingga cocok bagi Anda untuk mendapatkan ide.</p>
 <p>Jadi, apa yang saya buat itu adalah bibit software.</p>
 <p>Akan menjadi seperti apa software tadi setelah dewasa, itu melibatkan keputusan Anda.</p>
-<p>Lalu, apakah saya telah berhasil bibit software tersebut?</p>
-<p>YA...</p>
+<p>Lalu, apakah saya telah berhasil mengimplementasikan bibit software tersebut?</p>
+<p>YA... Walaupun mungkin sebagian dari bagiannya saja.</p>
 <p>Saya telah berhasil membantu client saya membuat aplikasi WhatsApp marketing bernama WBSPro.</p>
 <p>Beberapa bagian dari aplikasi WBSPro menggunakan teknologi obfuscation yang saya terapkan di beberapa aplikasi Electron js saya.</p>
-<p>Saya sendiri yang menemukan teknologi tersebut.</p>
+<p>Saya sendiri yang menemukan teknologi obfuscation tersebut.</p>
 <p>Selain itu, dalam pemeliharaannya, saya juga membantu melakukan update yang cukup sulit.</p>
 <p>Untungnya, saya bisa melakukannya dengan cukup cepat.</p>
 <p>Sebelum saya mengerjakan project WBSPro, sebenarnya saya sudah pernah mengerjakan project dari luar negeri, lebih tepatnya dari Singapura melalui salah satu website freelance luar negeri.</p>
