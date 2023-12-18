@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-19T03:07:35+07:00</updated>
+    <updated>2023-12-19T04:17:24+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -332,7 +332,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-16T05:23:25+07:00</updated>
+        <updated>2023-12-19T04:17:24+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" alt="Aplikasi Desktop YouTube Browser dan Downloader" />
@@ -369,7 +369,9 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Electron js dengan Bootstrap CSS.</p>
 <h2>Antarmuka</h2>
-<p>Berikut ini adalah screenshot aplikasi ini:</p>
+<p>Berikut ini adalah screencast-nya:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/84FxM_u41pA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Berikut ini adalah screenshot-nya:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/24/gallery/electron_RjRxeRPW2c.png" data-size="1010x761"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/24/gallery/electron_RjRxeRPW2c-thumbnail.png" alt="" width="768" height="579"></a></figure>
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/24/gallery/electron_WaexUUNAoR.png" data-size="1010x761"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/24/gallery/electron_WaexUUNAoR-thumbnail.png" alt="" width="768" height="579"></a></figure>
@@ -387,7 +389,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/23/electron_LUdprCor8N.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-16T05:23:37+07:00</updated>
+        <updated>2023-12-19T04:16:29+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/23/electron_LUdprCor8N.png" alt="Aplikasi Desktop Video Player" />
@@ -420,6 +422,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Electron js dengan Metro UI.</p>
 <h2>Antarmuka</h2>
+<p>Berikut ini adalah screencast aplikasi ini:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Ezvyc1I1Nxc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Berikut ini adalah screenshot aplikasi ini:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/23/gallery/electron_LUdprCor8N.png" data-size="786x558"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/23/gallery/electron_LUdprCor8N-thumbnail.png" alt="image" width="768" height="545"></a></figure>
@@ -676,7 +680,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-16T05:25:02+07:00</updated>
+        <updated>2023-12-19T04:15:45+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" alt="Aplikasi Desktop Web Browser Otomatis" />
@@ -719,6 +723,8 @@
 <p>Aplikasi ini dibuat menggunakan Electron js dengan webview tag.</p>
 <p>Electron js itu sendiri menurut saya sangat bagus untuk membuat aplikasi bot atau web automation karena pada dasarnya Electron js adalah sebuah web browser yang bisa dijadikan aplikasi custom yang standalone.</p>
 <h2>Antarmuka</h2>
+<p>Berikut ini adalah screencast aplikasi ini:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/munUHQC1FUY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Berikut ini adalah screenshot aplikasi ini:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-1.png" data-size="512x385"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="385"></a></figure>
@@ -820,7 +826,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/7/screenshot-1.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-16T05:25:40+07:00</updated>
+        <updated>2023-12-19T04:15:00+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/7/screenshot-1.png" alt="Aplikasi Desktop Website Downloader" />
@@ -857,7 +863,9 @@
 <p>Untuk antarmukanya, HTML, CSS, dan JS digunakan, sehingga lebih fleksibel dan kaya.</p>
 <p>Dalam penerapannya, digunakan juga Bootstrap CSS sebagai library CSS.</p>
 <h2>Antarmuka</h2>
-<p>Screenshot:</p>
+<p>Berikut ini adalah screencast-nya:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/1IqoOQHExfY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Berikut ini adalah screenshot-nya:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-1.png" data-size="512x321"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="321"></a></figure>
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-2.png" data-size="512x321"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="321"></a></figure>
@@ -876,7 +884,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/6/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-19T02:54:04+07:00</updated>
+        <updated>2023-12-19T04:14:16+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/6/screenshot-1-2.png" alt="Aplikasi Desktop Embed Protector" />
@@ -915,6 +923,8 @@
 <p>Dengan tampilan yang didesain dengan HTML, CSS, dan JS, maka semua itu lebih fleksibel dan memiliki tampilan yang kaya.</p>
 <p>Hingga versi terbaru, bundler menggunakan NW.js walaupun saya mempertimbangkan untuk menggunakan yang lain jika ada yang lebih kecil, cepat, namun fungsional.</p>
 <h2>Antarmuka</h2>
+<p>Berikut ini adalah screencast-nya:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ToLB1pk_F8w" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Berikut ini adalah screenshot-nya:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-1.png" data-size="512x386"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="386"></a></figure>
