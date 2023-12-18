@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html",
+            "url": "https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html",
+            "title": "Aplikasi Web Node.js React js Todo List",
+            "summary": "Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js. Aplikasi ini bisa menyelesaikan masalah pencatatan todo. Fitur utama aplikasi ini adalah: Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request&hellip;",
+            "content_html": "<blockquote>\n<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>\n</blockquote>\n<p>Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js.</p>\n<h2>Masalah yang Diselesaikan</h2>\n<p>Aplikasi ini bisa menyelesaikan masalah pencatatan todo.</p>\n<h2>Fitur Aplikasi Ini</h2>\n<p>Fitur utama aplikasi ini adalah:</p>\n<ul>\n<li>Bisa membuat todo</li>\n<li>Bisa menghapus todo</li>\n<li>Register</li>\n<li>Login</li>\n<li>Dashboard</li>\n<li>Bisa menggunakan MongoDB dan MySQL</li>\n</ul>\n<h2>Keunggulan Aplikasi Ini</h2>\n<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>\n<h2>Teknologi yang Digunakan</h2>\n<p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan React js.</p>\n<h2>Antarmuka</h2>\n<p>Berikut ini adalah screenshot aplikasi ini:</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR.png\" data-size=\"1024x550\"><img loading=\"lazy\" src=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR-thumbnail.png\" alt=\"\" width=\"768\" height=\"413\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_Hw4GW1VxtY.png\" data-size=\"1024x550\"><img loading=\"lazy\" src=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_Hw4GW1VxtY-thumbnail.png\" alt=\"\" width=\"768\" height=\"413\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_ilbjLnPPLw.png\" data-size=\"1024x550\"><img loading=\"lazy\" src=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_ilbjLnPPLw-thumbnail.png\" alt=\"\" width=\"768\" height=\"413\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_nqhibH7JyC.png\" data-size=\"1024x550\"><img loading=\"lazy\" src=\"https://www.rakifsul.my.id/media/posts/32/gallery/brave_nqhibH7JyC-thumbnail.png\" alt=\"\" width=\"768\" height=\"413\"></a></figure>\n</div></div>",
+            "image": "https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Aplikasi Web Node.js"
+            ],
+            "date_published": "2023-12-18T23:02:01+07:00",
+            "date_modified": "2023-12-18T23:06:01+07:00"
+        },
+        {
+            "id": "https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap-lainnya-2.html",
+            "url": "https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap-lainnya-2.html",
+            "title": "Theme WordPress Berbasis Bootstrap Lainnya 2",
+            "summary": "Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5. Cocok untuk blog personal.",
+            "content_html": "<blockquote>\n<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>\n</blockquote>\n<p>Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5.</p>\n<p>Cocok untuk blog personal.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.rakifsul.my.id/media/posts/31/ss.png\" alt=\"\" width=\"1024\" height=\"2238\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.rakifsul.my.id/media/posts/31/responsive/ss-xs.png 300w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-sm.png 480w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-md.png 768w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-2xl.png 1600w\"></figure>",
+            "image": "https://www.rakifsul.my.id/media/posts/31/thumbnail.png",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Theme WordPress"
+            ],
+            "date_published": "2023-12-18T22:59:09+07:00",
+            "date_modified": "2023-12-18T23:01:54+07:00"
+        },
+        {
             "id": "https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap.html",
             "url": "https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap.html",
             "title": "Theme WordPress Berbasis Bootstrap",

@@ -3,12 +3,92 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-16T05:26:34+07:00</updated>
+    <updated>2023-12-18T23:06:01+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Aplikasi Web Node.js React js Todo List</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html"/>
+        <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html</id>
+        <media:content url="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" medium="image" />
+            <category term="Aplikasi Web Node.js"/>
+
+        <updated>2023-12-18T23:06:01+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" alt="" />
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js. Aplikasi ini bisa menyelesaikan masalah pencatatan todo. Fitur utama aplikasi ini adalah: Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
+</blockquote>
+<p>Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js.</p>
+<h2>Masalah yang Diselesaikan</h2>
+<p>Aplikasi ini bisa menyelesaikan masalah pencatatan todo.</p>
+<h2>Fitur Aplikasi Ini</h2>
+<p>Fitur utama aplikasi ini adalah:</p>
+<ul>
+<li>Bisa membuat todo</li>
+<li>Bisa menghapus todo</li>
+<li>Register</li>
+<li>Login</li>
+<li>Dashboard</li>
+<li>Bisa menggunakan MongoDB dan MySQL</li>
+</ul>
+<h2>Keunggulan Aplikasi Ini</h2>
+<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
+<h2>Teknologi yang Digunakan</h2>
+<p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan React js.</p>
+<h2>Antarmuka</h2>
+<p>Berikut ini adalah screenshot aplikasi ini:</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR-thumbnail.png" alt="" width="768" height="413"></a></figure>
+<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_Hw4GW1VxtY.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_Hw4GW1VxtY-thumbnail.png" alt="" width="768" height="413"></a></figure>
+<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_ilbjLnPPLw.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_ilbjLnPPLw-thumbnail.png" alt="" width="768" height="413"></a></figure>
+<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_nqhibH7JyC.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_nqhibH7JyC-thumbnail.png" alt="" width="768" height="413"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Theme WordPress Berbasis Bootstrap Lainnya 2</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap-lainnya-2.html"/>
+        <id>https://www.rakifsul.my.id/theme-wordpress-berbasis-bootstrap-lainnya-2.html</id>
+        <media:content url="https://www.rakifsul.my.id/media/posts/31/thumbnail.png" medium="image" />
+            <category term="Theme WordPress"/>
+
+        <updated>2023-12-18T23:01:54+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.rakifsul.my.id/media/posts/31/thumbnail.png" alt="" />
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5. Cocok untuk blog personal.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.rakifsul.my.id/media/posts/31/thumbnail.png" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
+</blockquote>
+<p>Ini adalah theme WordPress yang dibuat menggunakan Bootstrap 5.</p>
+<p>Cocok untuk blog personal.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/31/ss.png" alt="" width="1024" height="2238" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/31/responsive/ss-xs.png 300w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-sm.png 480w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-md.png 768w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/31/responsive/ss-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Theme WordPress Berbasis Bootstrap</title>
         <author>
