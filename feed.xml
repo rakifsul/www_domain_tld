@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-18T23:06:01+07:00</updated>
+    <updated>2023-12-19T03:07:35+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -19,11 +19,11 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-18T23:06:01+07:00</updated>
+        <updated>2023-12-19T03:07:35+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" alt="" />
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js. Aplikasi ini bisa menyelesaikan masalah pencatatan todo. Fitur utama aplikasi ini adalah: Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request&hellip;
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js. Todo adalah aplikasi yang berguna untuk mengatur daftar. Aplikasi ini adalah aplikasi todo list. Aplikasi ini bisa menyelesaikan masalah pencatatan todo. Misalnya, create, read,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -34,7 +34,10 @@
 </blockquote>
 <p>Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js.</p>
 <h2>Masalah yang Diselesaikan</h2>
+<p>Todo adalah aplikasi yang berguna untuk mengatur daftar.</p>
+<p>Aplikasi ini adalah aplikasi todo list.</p>
 <p>Aplikasi ini bisa menyelesaikan masalah pencatatan todo.</p>
+<p>Misalnya, create, read, update, dan delete todo dari list.</p>
 <h2>Fitur Aplikasi Ini</h2>
 <p>Fitur utama aplikasi ini adalah:</p>
 <ul>
@@ -43,6 +46,7 @@
 <li>Register</li>
 <li>Login</li>
 <li>Dashboard</li>
+<li>Search todo</li>
 <li>Bisa menggunakan MongoDB dan MySQL</li>
 </ul>
 <h2>Keunggulan Aplikasi Ini</h2>
@@ -128,11 +132,11 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/29/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-16T05:22:47+07:00</updated>
+        <updated>2023-12-19T03:05:30+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/29/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" alt="" />
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi company profile dinamis yang dibuat menggunakan Node.js. Aplikasi ini bisa menyelesaikan masalah website company profile. Fitur utama aplikasi ini adalah: Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur&hellip;
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi company profile dinamis yang dibuat menggunakan Node.js. Di zaman sekarang, sudah lazim bahwa sebuah perusahaan memiliki web company profile. Tujuannya adalah agar perusahaan tersebut bisa dicari di search engine. Aplikasi ini bisa menyelesaikan&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -143,7 +147,12 @@
 </blockquote>
 <p>Aplikasi ini adalah aplikasi company profile dinamis yang dibuat menggunakan Node.js.</p>
 <h2>Masalah yang Diselesaikan</h2>
+<p>Di zaman sekarang, sudah lazim bahwa sebuah perusahaan memiliki web company profile.</p>
+<p>Tujuannya adalah agar perusahaan tersebut bisa dicari di search engine.</p>
 <p>Aplikasi ini bisa menyelesaikan masalah website company profile.</p>
+<p>Kenapa?</p>
+<p>Karena tampilan depan aplikasi ini merupakan website company profile.</p>
+<p>Website ini tidak statis, karena elemen-elemennya bisa disetting di admin area dari aplikasi ini.</p>
 <h2>Fitur Aplikasi Ini</h2>
 <p>Fitur utama aplikasi ini adalah:</p>
 <ul>
@@ -176,11 +185,11 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/28/NDPSTSHR1.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-16T05:23:01+07:00</updated>
+        <updated>2023-12-19T03:03:19+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/28/NDPSTSHR1.png" alt="" />
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi berbagi paste yang dibuat menggunakan Node.js. Aplikasi ini bisa menyelesaikan masalah pembagian teks yang di-paste-kan. Fitur utama aplikasi ini adalah: Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur&hellip;
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi berbagi paste yang dibuat menggunakan Node.js. Saat menggunakan sosial media, mungkin saja Anda ingin membagikan teks tertentu. Tapi, walaupun tergantung jenis sosial medianya, terkadang fitur postingannya tidak bisa diformat dengan format teks tertentu.
                 ]]>
             </summary>
         <content type="html">
@@ -191,7 +200,12 @@
 </blockquote>
 <p>Aplikasi ini adalah aplikasi berbagi paste yang dibuat menggunakan Node.js.</p>
 <h2>Masalah yang Diselesaikan</h2>
-<p>Aplikasi ini bisa menyelesaikan masalah pembagian teks yang di-paste-kan.</p>
+<p>Saat menggunakan sosial media, mungkin saja Anda ingin membagikan teks tertentu.</p>
+<p>Tapi, walaupun tergantung jenis sosial medianya, terkadang fitur postingannya tidak bisa diformat dengan format teks tertentu.</p>
+<p>Aplikasi ini bisa menyelesaikan masalah pembagian teks yang di-paste-kan semacam itu.</p>
+<p>Kenapa?</p>
+<p>Karena dengan aplikasi ini, user bisa membuat teks berformat markdown sehingga tampilannya lebih menarik.</p>
+<p>Jadi, saat Anda ingin membagikan teks cukup buat di aplikasi ini, kemudian bagikan link nya di sosial media tersebut.</p>
 <h2>Fitur Aplikasi Ini</h2>
 <p>Fitur utama aplikasi ini adalah:</p>
 <ul>
@@ -230,11 +244,11 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/27/NDBLGCMS8.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-16T05:23:10+07:00</updated>
+        <updated>2023-12-19T03:00:40+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/27/NDBLGCMS8.png" alt="" />
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi blog CMS yang dibuat menggunakan Node.js. Blogging adalah kegiatan yang menyenangkan bagi orang-orang tertentu. Agar melakukan blogging lebih mudah, maka CMS digunakan. Aplikasi ini adalah CMS Blog. Fitur utama aplikasi ini adalah: Aplikasi&hellip;
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi blog CMS yang dibuat menggunakan Node.js. Blogging adalah kegiatan yang menyenangkan bagi orang-orang tertentu. Agar melakukan blogging lebih mudah, maka CMS digunakan. Aplikasi ini adalah CMS Blog. Karena aplikasi ini adalah CMS blog,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -248,6 +262,7 @@
 <p>Blogging adalah kegiatan yang menyenangkan bagi orang-orang tertentu.</p>
 <p>Agar melakukan blogging lebih mudah, maka CMS digunakan.</p>
 <p>Aplikasi ini adalah CMS Blog.</p>
+<p>Karena aplikasi ini adalah CMS blog, maka mungkin saja blogging lebih mudah dengan menggunakan aplikasi ini.</p>
 <h2>Fitur Aplikasi Ini</h2>
 <p>Fitur utama aplikasi ini adalah:</p>
 <ul>
@@ -723,11 +738,11 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/12/screenshot-3.png" medium="image" />
             <category term="Aplikasi Desktop Godot"/>
 
-        <updated>2023-12-16T05:25:15+07:00</updated>
+        <updated>2023-12-19T02:56:25+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/12/screenshot-3.png" alt="Aplikasi Desktop Game Tank" />
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Game ini adalah game shooting tank sederhana. Pemain game ini bertugas untuk menembaki tank musuh yang cuma ada 2. Game ini dimainkan dengan menggunakan keyboard. Game ini sudah dilengkapi dengan AI lawan, sehingga lawan bisa bergerak sendiri.
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Game ini adalah game shooting tank sederhana. Pemain game ini bertugas untuk menembaki tank musuh yang cuma ada 2. Tank pemain ditempatkan pada sebuah level yang menyerupai maze. Di sana hanya ada 1 tank pemain dan 2&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -739,6 +754,9 @@
 <p>Game ini adalah game shooting tank sederhana.</p>
 <h2>Deksripsi Singkat</h2>
 <p>Pemain game ini bertugas untuk menembaki tank musuh yang cuma ada 2.</p>
+<p>Tank pemain ditempatkan pada sebuah level yang menyerupai maze.</p>
+<p>Di sana hanya ada 1 tank pemain dan 2 tank lawan.</p>
+<p>Kedua tank lawan harus dikalahkan dengan menembaknya.</p>
 <p>Game ini dimainkan dengan menggunakan keyboard.</p>
 <p>Game ini sudah dilengkapi dengan AI lawan, sehingga lawan bisa bergerak sendiri.</p>
 <p>Game ini dibuat dengan Godot Engine.</p>
@@ -858,7 +876,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/6/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-16T05:25:57+07:00</updated>
+        <updated>2023-12-19T02:54:04+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/6/screenshot-1-2.png" alt="Aplikasi Desktop Embed Protector" />
