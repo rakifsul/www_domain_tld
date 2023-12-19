@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-19T04:28:26+07:00</updated>
+    <updated>2023-12-20T05:00:41+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -500,7 +500,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/17/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Python"/>
 
-        <updated>2023-12-16T05:24:07+07:00</updated>
+        <updated>2023-12-20T05:00:41+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/17/screenshot-1-2.png" alt="Aplikasi Desktop Shutdown Otomatis" />
@@ -531,6 +531,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
 <h2>Antarmuka</h2>
+<p>Screencast:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/mrQ47zN8mRk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Screenshot:</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/17/screenshot-1.png" alt="image" width="313" height="358" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-xs.png 300w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-sm.png 480w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-md.png 768w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-2xl.png 1600w"></figure>
             ]]>
@@ -585,7 +587,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/15/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Python"/>
 
-        <updated>2023-12-16T05:24:36+07:00</updated>
+        <updated>2023-12-20T05:00:03+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/15/screenshot-1-2.png" alt="Aplikasi Desktop Suara Keyboard" />
@@ -618,6 +620,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
 <h2>Antarmuka</h2>
+<p>Screencast:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nZ0dg7lpLp0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Screenshot:</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/15/screenshot-1.png" alt="image" width="512" height="288" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-xs.png 300w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-sm.png 480w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-md.png 768w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-2xl.png 1600w"></figure>
             ]]>
@@ -633,7 +637,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/14/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Python"/>
 
-        <updated>2023-12-16T05:24:49+07:00</updated>
+        <updated>2023-12-20T04:59:29+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/14/screenshot-1-2.png" alt="Aplikasi Desktop Pembuat Password" />
@@ -665,6 +669,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
 <h2>Antarmuka</h2>
+<p>Screencast:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/co4kthTT11Q" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Screenshot:</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/14/screenshot-1.png" alt="image" width="512" height="288" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-xs.png 300w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-sm.png 480w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-md.png 768w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-2xl.png 1600w"></figure>
             ]]>
