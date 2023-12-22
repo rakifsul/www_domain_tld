@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-20T05:00:41+07:00</updated>
+    <updated>2023-12-23T05:57:09+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-19T03:07:35+07:00</updated>
+        <updated>2023-12-23T05:57:09+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" alt="" />
@@ -54,6 +54,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan React js.</p>
 <h2>Antarmuka</h2>
+<p>Screencast aplikasi ini:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/1TLprVxCQBU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Berikut ini adalah screenshot aplikasi ini:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR-thumbnail.png" alt="" width="768" height="413"></a></figure>
@@ -132,7 +134,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/29/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-19T03:05:30+07:00</updated>
+        <updated>2023-12-23T05:56:38+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/29/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" alt="" />
@@ -167,6 +169,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
 <h2>Antarmuka</h2>
+<p>Screencast aplikasi ini:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/k-Y_7YxD-fw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Berikut ini adalah screenshot aplikasi ini:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/29/gallery/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" data-size="1024x497"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/29/gallery/screencapture-localhost-3000-admin-2023-12-11-23_28_09-thumbnail.png" alt="" width="768" height="373"></a></figure>
@@ -185,7 +189,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/28/NDPSTSHR1.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-19T03:03:19+07:00</updated>
+        <updated>2023-12-23T05:56:10+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/28/NDPSTSHR1.png" alt="" />
@@ -221,6 +225,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
 <h2>Antarmuka</h2>
+<p>Screencast aplikasi ini:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/k6VRDWHNltQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Berikut ini adalah screenshot aplikasi ini:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR1.png" data-size="786x425"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR1-thumbnail.png" alt="" width="768" height="415"></a></figure>
@@ -244,7 +250,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/27/NDBLGCMS8.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-19T03:00:40+07:00</updated>
+        <updated>2023-12-23T05:55:39+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/27/NDBLGCMS8.png" alt="" />
@@ -279,6 +285,8 @@
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
 <h2>Antarmuka</h2>
+<p>Screencast aplikasi ini:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GmiellWDnAQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Berikut ini adalah screenshot aplikasi ini:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS1.png" data-size="786x425"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS1-thumbnail.png" alt="" width="768" height="415"></a></figure>
@@ -332,7 +340,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-19T04:17:24+07:00</updated>
+        <updated>2023-12-23T05:55:08+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" alt="Aplikasi Desktop YouTube Browser dan Downloader" />
@@ -389,7 +397,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/23/electron_LUdprCor8N.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-19T04:16:29+07:00</updated>
+        <updated>2023-12-23T05:55:00+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/23/electron_LUdprCor8N.png" alt="Aplikasi Desktop Video Player" />
@@ -548,7 +556,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/16/screenshot-3.png" medium="image" />
             <category term="Aplikasi Desktop Godot"/>
 
-        <updated>2023-12-16T05:24:23+07:00</updated>
+        <updated>2023-12-23T05:54:34+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/16/screenshot-3.png" alt="Aplikasi Desktop Game Turret" />
@@ -569,6 +577,8 @@
 <p>Tidak ada batasan jumlah robotnya, jadi ini adalah game survival.</p>
 <p>Game ini dibuat dengan menggunakan Godot Engine.</p>
 <h2>Antarmuka</h2>
+<p>Screencast:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/hNCTazbfY6g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Screenshot:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/16/gallery/screenshot-2.png" data-size="512x314"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/16/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="314"></a></figure>
@@ -750,7 +760,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/12/screenshot-3.png" medium="image" />
             <category term="Aplikasi Desktop Godot"/>
 
-        <updated>2023-12-19T02:56:25+07:00</updated>
+        <updated>2023-12-23T05:53:59+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/12/screenshot-3.png" alt="Aplikasi Desktop Game Tank" />
@@ -773,6 +783,8 @@
 <p>Game ini sudah dilengkapi dengan AI lawan, sehingga lawan bisa bergerak sendiri.</p>
 <p>Game ini dibuat dengan Godot Engine.</p>
 <h2>Antarmuka</h2>
+<p>Screencast:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qXbuibYRMjs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Screenshot:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/12/gallery/screenshot-2.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/12/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="315"></a></figure>
@@ -791,7 +803,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/11/screenshot-3.png" medium="image" />
             <category term="Aplikasi Desktop Godot"/>
 
-        <updated>2023-12-16T05:25:28+07:00</updated>
+        <updated>2023-12-23T05:53:27+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/11/screenshot-3.png" alt="Aplikasi Desktop Game Off-Road" />
@@ -813,6 +825,8 @@
 <p>Dengan sistem kontrol mobil manual yang realistis, membuat game ini lebih menantang lagi, walaupun temanya adalah low poly.</p>
 <p>Game ini dibuat menggunakan Godot Engine.</p>
 <h2>Antarmuka</h2>
+<p>Screencast:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/FJgIGmF4Xr4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Screenshot:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-1.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="315"></a></figure>
