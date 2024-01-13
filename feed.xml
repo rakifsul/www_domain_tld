@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-01-13T23:40:55+07:00</updated>
+    <updated>2024-01-14T00:04:11+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -681,7 +681,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2024-01-13T23:40:09+07:00</updated>
+        <updated>2024-01-14T00:04:11+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" alt="Aplikasi Desktop Web Browser Otomatis" />
@@ -719,7 +719,6 @@
 <p>Selain itu, aplikasi ini juga bisa digunakan sebagai web browser biasa.</p>
 <p>Fitur coding dalam browsing juga sudah terintegrasi dalam aplikasi ini.</p>
 <p>Dilengkapi juga dengan devtools.</p>
-<p>Selain itu, Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Electron js dengan webview tag.</p>
 <p>Electron js itu sendiri menurut saya sangat bagus untuk membuat aplikasi bot atau web automation karena pada dasarnya Electron js adalah sebuah web browser yang bisa dijadikan aplikasi custom yang standalone.</p>
