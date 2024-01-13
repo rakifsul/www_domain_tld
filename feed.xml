@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2023-12-23T05:57:09+07:00</updated>
+    <updated>2024-01-13T23:40:55+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-23T05:57:09+07:00</updated>
+        <updated>2024-01-13T23:36:44+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/32/brave_ilbjLnPPLw.png" alt="" />
@@ -49,8 +49,6 @@
 <li>Search todo</li>
 <li>Bisa menggunakan MongoDB dan MySQL</li>
 </ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan React js.</p>
 <h2>Antarmuka</h2>
@@ -134,7 +132,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/29/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-23T05:56:38+07:00</updated>
+        <updated>2024-01-13T23:37:11+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/29/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" alt="" />
@@ -164,8 +162,6 @@
 <li>Dashboard</li>
 <li>Mengubah teks dan gambar tampilan publik</li>
 </ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
 <h2>Antarmuka</h2>
@@ -189,7 +185,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/28/NDPSTSHR1.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-23T05:56:10+07:00</updated>
+        <updated>2024-01-13T23:37:23+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/28/NDPSTSHR1.png" alt="" />
@@ -220,8 +216,6 @@
 <li>Manajemen paste</li>
 <li>User secret paste link</li>
 </ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
 <h2>Antarmuka</h2>
@@ -250,7 +244,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/27/NDBLGCMS8.png" medium="image" />
             <category term="Aplikasi Web Node.js"/>
 
-        <updated>2023-12-23T05:55:39+07:00</updated>
+        <updated>2024-01-13T23:37:34+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/27/NDBLGCMS8.png" alt="" />
@@ -280,8 +274,6 @@
 <li>Tambah tag</li>
 <li>Menu navigasi</li>
 </ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
 <h2>Antarmuka</h2>
@@ -340,7 +332,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-23T05:55:08+07:00</updated>
+        <updated>2024-01-13T23:38:00+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/24/electron_WaexUUNAoR.png" alt="Aplikasi Desktop YouTube Browser dan Downloader" />
@@ -373,7 +365,6 @@
 <h2>Keunggulan Aplikasi Ini</h2>
 <p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa browsing di YouTube.</p>
 <p>Jadi, sambil "jalan-jalan" di YouTube, Anda bisa mengumpulkan link video atau playlist yang menarik kemudian men-download-nya nanti.</p>
-<p>Selain itu, Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Electron js dengan Bootstrap CSS.</p>
 <h2>Antarmuka</h2>
@@ -397,7 +388,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/23/electron_LUdprCor8N.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-23T05:55:00+07:00</updated>
+        <updated>2024-01-13T23:38:12+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/23/electron_LUdprCor8N.png" alt="Aplikasi Desktop Video Player" />
@@ -425,8 +416,6 @@
 <li>Tampilan yang bagus</li>
 <li>Bisa fullscreen</li>
 </ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat menggunakan Electron js dengan Metro UI.</p>
 <h2>Antarmuka</h2>
@@ -508,7 +497,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/17/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Python"/>
 
-        <updated>2023-12-20T05:00:41+07:00</updated>
+        <updated>2024-01-13T23:38:39+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/17/screenshot-1-2.png" alt="Aplikasi Desktop Shutdown Otomatis" />
@@ -535,7 +524,6 @@
 </ul>
 <h2>Keunggulan Aplikasi Ini</h2>
 <p>Keunggulan aplikasi ini adalah karena masih jarang yang serupa fungsinya.</p>
-<p>Selain itu, Anda juga bisa request fitur tambahan dengan sejumlah biaya.</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
 <h2>Antarmuka</h2>
@@ -556,7 +544,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/16/screenshot-3.png" medium="image" />
             <category term="Aplikasi Desktop Godot"/>
 
-        <updated>2023-12-23T05:54:34+07:00</updated>
+        <updated>2024-01-13T23:38:48+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/16/screenshot-3.png" alt="Aplikasi Desktop Game Turret" />
@@ -597,7 +585,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/15/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Python"/>
 
-        <updated>2023-12-20T05:00:03+07:00</updated>
+        <updated>2024-01-13T23:39:02+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/15/screenshot-1-2.png" alt="Aplikasi Desktop Suara Keyboard" />
@@ -626,7 +614,6 @@
 </ul>
 <h2>Keunggulan Aplikasi Ini</h2>
 <p>Aplikasi ini lebih baik dari alternatifnya, karena memang tidak ada aplikasi lain yang seperti ini.</p>
-<p>Selain itu, Anda juga bisa request fitur tambahan dengan sejumlah biaya.</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
 <h2>Antarmuka</h2>
@@ -647,11 +634,11 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/14/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Python"/>
 
-        <updated>2023-12-20T04:59:29+07:00</updated>
+        <updated>2024-01-13T23:39:14+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/14/screenshot-1-2.png" alt="Aplikasi Desktop Pembuat Password" />
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi desktop yang bisa digunakan untuk membuat password. Aplikasi ini berguna saat Anda membuat sebuah akun di web, yang memerlukan password yang kuat, tapi tanpa harus memikirkannya sendiri. Fitur: Kelebihan aplikasi ini dibandingkan yang&hellip;
+                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi desktop yang bisa digunakan untuk membuat password. Aplikasi ini berguna saat Anda membuat sebuah akun di web, yang memerlukan password yang kuat, tapi tanpa harus memikirkannya sendiri. Fitur: Aplikasi ini dibuat dengan menggunakan&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -674,8 +661,6 @@
 <li>Bisa dibuat unik, jika memungkinkan</li>
 <li>Bisa kopi ke clipboard</li>
 </ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Kelebihan aplikasi ini dibandingkan yang lainnya adalah bahwa Anda bisa request fitur tambahan, tentunya dengan sejumlah biaya.</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
 <h2>Antarmuka</h2>
@@ -696,7 +681,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-19T04:15:45+07:00</updated>
+        <updated>2024-01-13T23:40:09+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/13/screenshot-2.png" alt="Aplikasi Desktop Web Browser Otomatis" />
@@ -760,7 +745,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/12/screenshot-3.png" medium="image" />
             <category term="Aplikasi Desktop Godot"/>
 
-        <updated>2023-12-23T05:53:59+07:00</updated>
+        <updated>2024-01-13T23:40:16+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/12/screenshot-3.png" alt="Aplikasi Desktop Game Tank" />
@@ -803,7 +788,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/11/screenshot-3.png" medium="image" />
             <category term="Aplikasi Desktop Godot"/>
 
-        <updated>2023-12-23T05:53:27+07:00</updated>
+        <updated>2024-01-13T23:40:22+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/11/screenshot-3.png" alt="Aplikasi Desktop Game Off-Road" />
@@ -846,7 +831,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/7/screenshot-1.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-19T04:15:00+07:00</updated>
+        <updated>2024-01-13T23:40:39+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/7/screenshot-1.png" alt="Aplikasi Desktop Website Downloader" />
@@ -877,7 +862,6 @@
 <p>Aplikasi ini belum pernah ada sebelumnya.</p>
 <p>Ada yang serupa memang, tapi tidak bisa men-download dalam bentuk PDF dan PNG.</p>
 <p>Penggunaan PDF dan PNG lebih menguntungkan karena single file dan lebih rapi.</p>
-<p>Selain itu, Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini dibuat dengan menggunakan Electron js.</p>
 <p>Untuk antarmukanya, HTML, CSS, dan JS digunakan, sehingga lebih fleksibel dan kaya.</p>
@@ -904,7 +888,7 @@
         <media:content url="https://www.rakifsul.my.id/media/posts/6/screenshot-1-2.png" medium="image" />
             <category term="Aplikasi Desktop Electron"/>
 
-        <updated>2023-12-19T04:14:16+07:00</updated>
+        <updated>2024-01-13T23:40:55+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.rakifsul.my.id/media/posts/6/screenshot-1-2.png" alt="Aplikasi Desktop Embed Protector" />
@@ -937,7 +921,6 @@
 <p>Aplikasi ini lebih baik daripada alternatif lainnya.</p>
 <p>Kenapa?</p>
 <p>Karena tidak ada aplikasi lain yang seperti ini.</p>
-<p>Selain itu, Anda juga bisa request fitur tambahan untuk aplikasi ini (tentunya dengan biaya tambahan).</p>
 <h2>Teknologi yang Digunakan</h2>
 <p>Aplikasi ini menggunakan Electron js sebagai core-nya.</p>
 <p>Dengan tampilan yang didesain dengan HTML, CSS, dan JS, maka semua itu lebih fleksibel dan memiliki tampilan yang kaya.</p>
