@@ -10,6 +10,96 @@
     },
     "items": [
         {
+            "id": "https://www.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html",
+            "title": "Contoh Project Godot Engine 3 Simple Turret Aim",
+            "summary": "Pendahuluan Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple turret aim dengan Godot Engine 3.",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/C5QvUv4WKLU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>Pendahuluan</h3>\n<p>Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D.</p>\n<p>Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse.</p>\n<h3>Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project simple turret aim dengan Godot Engine 3.</p>\n<h3>Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur berikut ini:</p>\n<ul>\n<li>Contoh kode untuk membidik ke arah kursor</li>\n</ul>\n<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>\n<h3>Disclaimer</h3>\n<ul>\n<li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>\n<li>Project tidak dijamin bisa dijalankan dengan benar.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-godot-engine3-simple-turret-aim\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-01-28T01:29:54+07:00",
+            "date_modified": "2024-01-28T01:33:17+07:00"
+        },
+        {
+            "id": "https://www.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html",
+            "title": "Contoh Project Godot Engine 3 Predictive Turret Aim",
+            "summary": "Pendahuluan Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game. Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur ini: BACA&hellip;",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/K8byk3fQNOM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>Pendahuluan</h3>\n<p>Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game.</p>\n<h3>Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3.</p>\n<h3>Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur ini:</p>\n<ul>\n<li>Contoh kode untuk menargetkan projectile untuk mengenai mendekati posisi kursor saat menembak.</li>\n</ul>\n<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>\n<h3>Disclaimer</h3>\n<ul>\n<li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>\n<li>Project tidak dijamin bisa dijalankan dengan benar.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-godot-engine3-predictive-turret-aim\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-01-28T01:29:38+07:00",
+            "date_modified": "2024-01-28T01:32:51+07:00"
+        },
+        {
+            "id": "https://www.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html",
+            "title": "Contoh Project Godot Engine 3 Nav Mesh Agent Sederhana",
+            "summary": "Pendahuluan Nav Mesh Agent adalah karakter game yang dapat berjalan mengikuti path dari hasil path finding di atas Navigation Mesh. Karya ini adalah contoh project nav mesh agent sederhana dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya terlebih&hellip;",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YuvCY3Fk0uc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>Pendahuluan</h3>\n<p>Nav Mesh Agent adalah karakter game yang dapat berjalan mengikuti path dari hasil path finding di atas Navigation Mesh.</p>\n<h3>Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project nav mesh agent sederhana dengan Godot Engine 3.</p>\n<h3>Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur berikut ini:</p>\n<ul>\n<li>Contoh kode untuk mencari path ke arah target dan berjalan di sepanjangnya</li>\n</ul>\n<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>\n<h3>Disclaimer</h3>\n<ul>\n<li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>\n<li>Project tidak dijamin bisa dijalankan dengan benar.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-godot-engine3-nav-mesh-agent-sederhana\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-01-28T01:29:19+07:00",
+            "date_modified": "2024-01-28T01:32:26+07:00"
+        },
+        {
+            "id": "https://www.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html",
+            "title": "Contoh Project Nodejs Aplikasi Image Gallery Mongoose",
+            "summary": "Pendahuluan Aplikasi image gallery adalah aplikasi yang berfungsi untuk menyimpan dan menampilkan file gambar. Karya ini adalah contoh project aplikasi image gallery yang dibuat dengan Node.js dan Mongoose. Sebagai contoh kode, source code aplikasi image gallery ini bisa menjadi contoh untuk: BACA README-nya terlebih dahulu&hellip;",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/HrjBFqMaLvY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>Pendahuluan</h3>\n<p>Aplikasi image gallery adalah aplikasi yang berfungsi untuk menyimpan dan menampilkan file gambar.</p>\n<h3>Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project aplikasi image gallery yang dibuat dengan Node.js dan Mongoose.</p>\n<h3>Fitur</h3>\n<p>Sebagai contoh kode, source code aplikasi image gallery ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara meng-upload file gambar</li>\n<li>Cara menampilkan file gambar</li>\n<li>Cara men-download file gambar</li>\n<li>Cara membuat entry data file gambar di database</li>\n<li>Cara menghapus entry data file gambar di database</li>\n<li>Cara menghapus file sebenarnya dari filesystem di server</li>\n<li>Cara menerapkan tag pada gambar.</li>\n</ul>\n<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>\n<h3>Disclaimer</h3>\n<ul>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-nodejs-aplikasi-image-gallery-mongoose\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-01-28T01:28:19+07:00",
+            "date_modified": "2024-01-28T01:31:59+07:00"
+        },
+        {
+            "id": "https://www.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html",
+            "title": "Contoh Project Python 3 Aplikasi Password Generator",
+            "summary": "Pendahuluan Password generator adalah aplikasi yang digunakan untuk membuat password. Karya ini adalah contoh project aplikasi password generator yang dibuat dengan Python 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya terlebih dahulu sebelum mencoba. Dapatkan",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YsPc_-VdbtY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>Pendahuluan</h3>\n<p>Password generator adalah aplikasi yang digunakan untuk membuat password.</p>\n<h3>Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project aplikasi password generator yang dibuat dengan Python 3.</p>\n<h3>Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur berikut ini:</p>\n<ul>\n<li>Contoh kode membuat password</li>\n<li>Contoh kode untuk menentukan panjang password</li>\n<li>Contoh kode membuat password dengan kombinasi lower case</li>\n<li>Contoh kode membuat password dengan kombinasi upper case</li>\n<li>Contoh kode membuat password dengan kombinasi angka</li>\n<li>Contoh kode membuat password dengan kombinasi simbol</li>\n<li>Contoh kode membuat password dengan karakter unik jika memungkinkan</li>\n</ul>\n<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>\n<h3>Disclaimer</h3>\n<ul>\n<li>Source code hanya teruji di Windows 11 dengan Python 3.10.11.</li>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-python3-aplikasi-password-generator\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-01-28T01:27:44+07:00",
+            "date_modified": "2024-01-28T01:31:23+07:00"
+        },
+        {
+            "id": "https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html",
+            "url": "https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html",
+            "title": "Studi Kasus Electron Membuat Aplikasi Video Player",
+            "summary": "Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang \"studi kasus membuat aplikasi video player dengan Electron js\". Dapatkan",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/KpmIyNThyGs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h2>Pendahuluan</h2>\n<p>Video player adalah aplikasi yang dapat memainkan video.</p>\n<h2>Karya Apakah Ini?</h2>\n<p>Karya ini adalah paket ebook + source code tentang \"studi kasus membuat aplikasi video player dengan Electron js\".</p>\n<h2>Fitur</h2>\n<ul>\n<li>Ebook sudah termasuk</li>\n<li>Source code sudah termasuk</li>\n</ul>\n<h2>Disclaimer</h2>\n<ul>\n<li>Tidak ada jaminan bahwa source code bisa dijalankan dengan benar.</li>\n<li>Tidak ada jaminan bahwa Anda akan paham dengan studi kasus ini.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/studi-kasus-electron-membuat-aplikasi-video-player\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-01-28T01:27:19+07:00",
+            "date_modified": "2024-01-28T01:30:58+07:00"
+        },
+        {
             "id": "https://www.rakifsul.my.id/galeri-model-3d.html",
             "url": "https://www.rakifsul.my.id/galeri-model-3d.html",
             "title": "Galeri Model 3D",
@@ -18,10 +108,10 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Asset"
+                   "Portfolio"
             ],
             "date_published": "2023-12-22T07:25:38+07:00",
-            "date_modified": "2024-01-27T06:27:11+07:00"
+            "date_modified": "2024-01-28T01:23:58+07:00"
         },
         {
             "id": "https://www.rakifsul.my.id/galeri-desain-web.html",
@@ -32,10 +122,10 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Asset"
+                   "Portfolio"
             ],
             "date_published": "2023-12-22T07:23:57+07:00",
-            "date_modified": "2024-01-27T06:27:16+07:00"
+            "date_modified": "2024-01-28T01:24:05+07:00"
         },
         {
             "id": "https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html",
@@ -47,8 +137,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Web Node.js",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-12-18T23:02:01+07:00",
             "date_modified": "2024-01-27T06:27:27+07:00"
@@ -63,8 +152,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Web Node.js",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-12-11T23:42:21+07:00",
             "date_modified": "2024-01-27T06:28:03+07:00"
@@ -79,8 +167,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Web Node.js",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-12-11T23:36:24+07:00",
             "date_modified": "2024-01-27T06:28:22+07:00"
@@ -95,8 +182,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Web Node.js",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-12-11T23:12:54+07:00",
             "date_modified": "2024-01-27T06:28:34+07:00"
@@ -111,8 +197,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Electron",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-12-02T03:47:04+07:00",
             "date_modified": "2024-01-27T06:28:51+07:00"
@@ -127,8 +212,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Electron",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-27T15:29:06+07:00",
             "date_modified": "2024-01-27T06:29:47+07:00"
@@ -143,8 +227,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Python",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-06T18:57:51+07:00",
             "date_modified": "2024-01-27T06:30:05+07:00"
@@ -159,8 +242,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Godot",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-06T18:53:51+07:00",
             "date_modified": "2024-01-27T06:30:15+07:00"
@@ -175,8 +257,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Python",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-06T18:52:23+07:00",
             "date_modified": "2024-01-27T06:30:30+07:00"
@@ -191,8 +272,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Python",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-06T18:49:57+07:00",
             "date_modified": "2024-01-27T06:30:43+07:00"
@@ -207,8 +287,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Electron",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-06T18:46:53+07:00",
             "date_modified": "2024-01-27T06:30:56+07:00"
@@ -223,8 +302,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Godot",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-05T02:04:29+07:00",
             "date_modified": "2024-01-27T06:31:08+07:00"
@@ -239,8 +317,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Godot",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-05T02:03:14+07:00",
             "date_modified": "2024-01-27T06:31:19+07:00"
@@ -255,8 +332,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Electron",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-05T01:11:44+07:00",
             "date_modified": "2024-01-27T06:31:29+07:00"
@@ -271,8 +347,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Aplikasi Desktop Electron",
-                   "Aplikasi"
+                   "Portfolio"
             ],
             "date_published": "2023-11-05T01:11:20+07:00",
             "date_modified": "2024-01-27T06:31:41+07:00"
