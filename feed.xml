@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-01-28T01:33:17+07:00</updated>
+    <updated>2024-01-28T06:08:37+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -227,10 +227,10 @@
         <id>https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html</id>
             <category term="Product"/>
 
-        <updated>2024-01-28T01:30:58+07:00</updated>
+        <updated>2024-01-28T06:08:37+07:00</updated>
             <summary>
                 <![CDATA[
-                    Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang "studi kasus membuat aplikasi video player dengan Electron js". Dapatkan
+                    Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Produk ini berupa Ebook beserta source code pendukungnya. Ebook ini membahas studi kasus tentang pengembangan aplikasi video player menggunakan Electron JS dan Metro UI. Para pembaca akan mendapatkan informasi tentang dasar-dasar Electron JS dan Metro UI.
                 ]]>
             </summary>
         <content type="html">
@@ -239,6 +239,26 @@
 <hr>
 <h2>Pendahuluan</h2>
 <p>Video player adalah aplikasi yang dapat memainkan video.</p>
+<p>Produk ini berupa Ebook beserta source code pendukungnya.</p>
+<p>Ebook ini membahas studi kasus tentang pengembangan aplikasi video player menggunakan Electron JS dan Metro UI.</p>
+<p>Para pembaca akan mendapatkan informasi tentang dasar-dasar Electron JS dan Metro UI.</p>
+<p>Pengguna akan mempelajari penerapan Metro UI styling sebagai alat untuk menampilkan video player.</p>
+<p>Fitur video player yang dibuat mencakup manajemen pemutaran video, kontrol volume, dan fitur-fitur lainnya.</p>
+<p>Pembaca mungkin akan mengasah keterampilan pengembangan mereka melalui pengalaman praktis dan belajar menerapkan pengetahuan dalam situasi dunia nyata.</p>
+<p>Fokus studi kasus ini barangkali memberikan kesempatan untuk memahami Electron JS dan Metro UI di luar kebiasaan.</p>
+<p>Ebook ini boleh jadi bukan hanya panduan permulaan, melainkan sumber daya yang mempersiapkan pembaca untuk menghadapi proyek-proyek pengembangan aplikasi yang lebih kompleks.</p>
+<p>Kemungkinan, Anda akan diajak memahami konsep Electron JS dan Metro UI untuk menciptakan aplikasi video player yang sederhana.</p>
+<p>Metro UI, terinspirasi dari desain antarmuka Windows 8, barangkali memberikan sentuhan modern dan minimalis pada proyek pengembangan Anda.</p>
+<p>Ebook ini mungkin cocok bagi mereka yang ingin menggali lebih dalam dalam pengembangan aplikasi desktop lintas platform.</p>
+<p>Ebook ini mungkin tidak hanya memberikan teori, tetapi juga memberikan wawasan praktis melalui studi kasus yang diterapkan.</p>
+<p>Setiap bagian ebook disusun dengan jelas untuk memastikan pemahaman yang baik dari konsep-konsep yang diajarkan.</p>
+<p>Dengan fokus pada keterampilan praktis, pembaca diharapkan dapat mengimplementasikan konsep-konsep yang dipelajari ke dalam proyek-proyek pribadi atau profesional mereka.</p>
+<p>Keberhasilan aplikasi video player tidak hanya dilihat dari aspek teknis, tetapi juga dari pengalaman pengguna yang memuaskan.</p>
+<p>Membangun aplikasi video player dengan Electron JS dan Metro UI diharapkan menjadi lebih mudah dengan panduan langkah demi langkah yang disajikan.</p>
+<p>Setelah menyelesaikan ebook, pembaca diharapkan akan merasa lebih percaya diri dalam menghadapi proyek-proyek pengembangan berbasis Electron JS.</p>
+<p>Pengalaman praktis yang diberikan oleh studi kasus ini diharapkan akan memungkinkan pembaca untuk membiasakan diri dengan masalah yang muncul dalam pengembangan perangkat lunak.</p>
+<p>Dengan memahami konsep Electron JS, pembaca diharapkan dapat membuka pintu menuju pengembangan aplikasi desktop yang lebih luas.</p>
+<p>Metro UI boleh jadi memberikan estetika yang menarik dan memberikan daya tarik visual yang luar biasa pada aplikasi video player yang dihasilkan, walaupun itu masih kemungkinan.</p>
 <h2>Karya Apakah Ini?</h2>
 <p>Karya ini adalah paket ebook + source code tentang "studi kasus membuat aplikasi video player dengan Electron js".</p>
 <h2>Fitur</h2>
