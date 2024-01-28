@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-01-28T07:09:02+07:00</updated>
+    <updated>2024-01-28T07:16:12+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -18,28 +18,28 @@
         <id>https://www.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html</id>
             <category term="Product"/>
 
-        <updated>2024-01-28T01:33:17+07:00</updated>
+        <updated>2024-01-28T07:15:54+07:00</updated>
             <summary>
                 <![CDATA[
-                    Pendahuluan Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple turret aim dengan Godot Engine 3.
+                    A. Apa Itu Simple Turret Aim? Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple turret&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/C5QvUv4WKLU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
-<h3>Pendahuluan</h3>
+<h3>A. Apa Itu Simple Turret Aim?</h3>
 <p>Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D.</p>
 <p>Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse.</p>
-<h3>Karya Apakah Ini?</h3>
+<h3>B. Karya Apakah Ini?</h3>
 <p>Karya ini adalah contoh project simple turret aim dengan Godot Engine 3.</p>
-<h3>Fitur</h3>
+<h3>C. Fitur</h3>
 <p>Sebagai contoh project, produk ini memiliki fitur berikut ini:</p>
 <ul>
 <li>Contoh kode untuk membidik ke arah kursor</li>
 </ul>
 <p>BACA README-nya terlebih dahulu sebelum mencoba.</p>
-<h3>Disclaimer</h3>
+<h3>D. Disclaimer</h3>
 <ul>
 <li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>
 <li>Project tidak dijamin bisa dijalankan dengan benar.</li>
@@ -58,27 +58,65 @@
         <id>https://www.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html</id>
             <category term="Product"/>
 
-        <updated>2024-01-28T01:32:51+07:00</updated>
+        <updated>2024-01-28T07:16:05+07:00</updated>
             <summary>
                 <![CDATA[
-                    Pendahuluan Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game. Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur ini: BACA&hellip;
+                    A. Sekilas tentang Turret Turret adalah meriam. Istilah ini biasanya digunakan untuk merujuk pada struktur berputar yang dipasang di kapal, tank, atau posisi lainnya, yang berfungsi sebagai tempat untuk menempatkan senjata atau peralatan lainnya dan dapat diarahkan ke berbagai arah. Istilah "turret" juga dapat digunakan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/K8byk3fQNOM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
-<h3>Pendahuluan</h3>
+<h3>A. Sekilas tentang Turret</h3>
+<p>Turret adalah meriam. Istilah ini biasanya digunakan untuk merujuk pada struktur berputar yang dipasang di kapal, tank, atau posisi lainnya, yang berfungsi sebagai tempat untuk menempatkan senjata atau peralatan lainnya dan dapat diarahkan ke berbagai arah.</p>
+<p>Istilah "turret" juga dapat digunakan dalam konteks permainan video atau dunia virtual untuk merujuk pada menara atau struktur serupa yang dapat berputar dan membawa senjata atau peralatan lainnya.</p>
+<h4>Apa Manfaat Turret dalam Game?</h4>
+<p>Dalam konteks game, turret memberikan berbagai manfaat yang dapat meningkatkan pengalaman bermain dan memperkaya elemen gameplay. Berikut adalah beberapa manfaat turret dalam game:</p>
+<ol>
+<li>
+<p><strong>Pertahanan</strong>: Turret sering digunakan sebagai alat pertahanan yang dapat membantu pemain melawan gelombang musuh. Mereka dapat menembak secara otomatis atau dengan kendali pemain, memberikan keunggulan pertahanan di tempat-tempat strategis dalam level permainan.</p>
+</li>
+<li>
+<p><strong>Penambahan Tingkat Kesulitan</strong>: Keberadaan turret dapat menambah tingkat kesulitan dalam game, terutama jika pemain harus menghadapi turret musuh. Ini memerlukan keterampilan dan strategi tambahan untuk menghindari atau menonaktifkan turret tersebut.</p>
+</li>
+<li>
+<p><strong>Elemen Taktis</strong>: Turret dapat digunakan sebagai elemen taktis dalam game, memungkinkan pemain untuk merencanakan strategi serangan atau pertahanan dengan memanfaatkan turret di tempat-tempat kunci.</p>
+</li>
+<li>
+<p><strong>Peningkatan Keamanan Posisi atau Pangkalan</strong>: Dalam game yang memiliki elemen konstruksi atau pengelolaan pangkalan, turret dapat digunakan untuk meningkatkan keamanan dan melindungi posisi atau pangkalan pemain dari serangan musuh.</p>
+</li>
+<li>
+<p><strong>Serangan Kejutan</strong>: Pemain dapat menggunakan turret sebagai alat serangan kejutan terhadap musuh. Dengan meletakkan turret di tempat-tempat tersembunyi atau strategis, pemain dapat menciptakan situasi di mana turret mendukung serangan pemain secara efektif.</p>
+</li>
+<li>
+<p><strong>Penggunaan Kreatif</strong>: Dalam beberapa game, pemain dapat menggunakan turret secara kreatif untuk menyelesaikan tantangan atau memecahkan puzzle. Ini menambah dimensi strategi dan pemecahan masalah dalam gameplay.</p>
+</li>
+<li>
+<p><strong>Pertempuran Kendaraan</strong>: Dalam game yang melibatkan kendaraan, turret dapat menjadi senjata utama yang dipasang pada kendaraan seperti tank atau pesawat tempur. Ini memberikan pemain kemampuan untuk menangani ancaman dari udara atau darat.</p>
+</li>
+<li>
+<p><strong>Pertempuran Multi-Pemain</strong>: Dalam pertempuran multiplayer, turret dapat menjadi elemen penting dalam mengontrol area atau mempertahankan posisi. Pemain atau tim dapat menggunakan turret sebagai alat untuk mendominasi medan pertempuran.</p>
+</li>
+<li>
+<p><strong>Kustomisasi Karakter</strong>: Beberapa game memungkinkan pemain untuk mengkustomisasi karakter mereka dengan memilih turret atau senjata lain yang sesuai dengan gaya bermain mereka. Ini memberikan elemen personalisasi yang lebih dalam dalam pengalaman bermain.</p>
+</li>
+<li>
+<p><strong>Simulasi Pertempuran Skala Besar</strong>: Dalam game simulasi pertempuran skala besar, turret dapat digunakan untuk menciptakan atmosfer pertempuran yang realistis. Mereka dapat diatur sebagai meriam di benteng, di atas kendaraan, atau sebagai bagian dari sistem pertahanan pangkalan.</p>
+</li>
+</ol>
+<p>Manfaat turret dalam game mencakup berbagai aspek, mulai dari pertahanan dan strategi taktis hingga elemen kreatif dan personalisasi. Penggunaan turret yang cerdas dapat memberikan variasi dalam gameplay dan meningkatkan tingkat keseruan dalam pengalaman bermain.</p>
+<h4>Lalu, Apa Itu Predictive Turret Aim?</h4>
 <p>Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game.</p>
-<h3>Karya Apakah Ini?</h3>
+<h3>B. Karya Apakah Ini?</h3>
 <p>Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3.</p>
-<h3>Fitur</h3>
+<h3>C. Fitur</h3>
 <p>Sebagai contoh project, produk ini memiliki fitur ini:</p>
 <ul>
 <li>Contoh kode untuk menargetkan projectile untuk mengenai mendekati posisi kursor saat menembak.</li>
 </ul>
 <p>BACA README-nya terlebih dahulu sebelum mencoba.</p>
-<h3>Disclaimer</h3>
+<h3>D. Disclaimer</h3>
 <ul>
 <li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>
 <li>Project tidak dijamin bisa dijalankan dengan benar.</li>
@@ -97,7 +135,7 @@
         <id>https://www.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html</id>
             <category term="Product"/>
 
-        <updated>2024-01-28T07:09:02+07:00</updated>
+        <updated>2024-01-28T07:16:12+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Navigation Mesh Agent (Nav Mesh Agent) Dalam pengembangan perangkat lunak, terutama dalam konteks pembuatan game dan simulasi, navigasi adalah aspek yang kritis untuk memberikan pengalaman interaktif yang mulus dan realistis. Salah satu komponen yang bertanggung jawab atas navigasi karakter atau objek di&hellip;
