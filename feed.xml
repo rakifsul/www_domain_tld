@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-01-31T02:21:58+07:00</updated>
+    <updated>2024-02-02T05:27:42+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -46,11 +46,11 @@
         <author>
             <name>RAKIFSUL</name>
         </author>
-        <link href="https://www.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html"/>
-        <id>https://www.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html</id>
+        <link href="https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html"/>
+        <id>https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html</id>
             <category term="Produk"/>
 
-        <updated>2024-01-29T04:25:20+07:00</updated>
+        <updated>2024-02-02T05:27:42+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Apa Itu Simple Turret Aim? Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple turret&hellip;
@@ -86,11 +86,11 @@
         <author>
             <name>RAKIFSUL</name>
         </author>
-        <link href="https://www.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html"/>
-        <id>https://www.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html</id>
+        <link href="https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html"/>
+        <id>https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html</id>
             <category term="Produk"/>
 
-        <updated>2024-01-29T04:25:11+07:00</updated>
+        <updated>2024-02-02T05:27:24+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Turret Turret adalah meriam. Istilah ini biasanya digunakan untuk merujuk pada struktur berputar yang dipasang di kapal, tank, atau posisi lainnya, yang berfungsi sebagai tempat untuk menempatkan senjata atau peralatan lainnya dan dapat diarahkan ke berbagai arah. Istilah "turret" juga dapat digunakan&hellip;
@@ -166,11 +166,11 @@
         <author>
             <name>RAKIFSUL</name>
         </author>
-        <link href="https://www.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html"/>
-        <id>https://www.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html</id>
+        <link href="https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html"/>
+        <id>https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html</id>
             <category term="Produk"/>
 
-        <updated>2024-01-29T04:22:34+07:00</updated>
+        <updated>2024-02-02T05:27:11+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Navigation Mesh Agent (Nav Mesh Agent) Dalam pengembangan perangkat lunak, terutama dalam konteks pembuatan game dan simulasi, navigasi adalah aspek yang kritis untuk memberikan pengalaman interaktif yang mulus dan realistis. Salah satu komponen yang bertanggung jawab atas navigasi karakter atau objek di&hellip;
@@ -297,11 +297,11 @@
         <author>
             <name>RAKIFSUL</name>
         </author>
-        <link href="https://www.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html"/>
-        <id>https://www.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html</id>
+        <link href="https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html"/>
+        <id>https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html</id>
             <category term="Produk"/>
 
-        <updated>2024-01-29T04:17:25+07:00</updated>
+        <updated>2024-02-02T05:27:01+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Image Gallery Dalam era digital ini, visualisasi memiliki peran yang semakin penting dalam cara kita berkomunikasi, berbagi pengalaman, dan menyimpan kenangan. Salah satu alat yang memainkan peran kunci dalam mengelola dan menikmati koleksi visual kita adalah aplikasi image gallery. Dengan pertumbuhan media&hellip;
@@ -399,11 +399,11 @@
         <author>
             <name>RAKIFSUL</name>
         </author>
-        <link href="https://www.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html"/>
-        <id>https://www.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html</id>
+        <link href="https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html"/>
+        <id>https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html</id>
             <category term="Produk"/>
 
-        <updated>2024-01-29T04:10:00+07:00</updated>
+        <updated>2024-02-02T05:26:48+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Password Generator Dalam era di mana kehidupan kita semakin terdigitalisasi, perlindungan keamanan data pribadi kita menjadi semakin penting. Salah satu langkah kunci untuk melindungi diri secara online adalah menggunakan kata sandi yang kuat dan unik untuk setiap akun yang kita miliki. Sayangnya,&hellip;
