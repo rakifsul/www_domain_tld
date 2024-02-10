@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-10T16:44:19+07:00</updated>
+    <updated>2024-02-11T03:10:24+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html</id>
             <category term="Product"/>
 
-        <updated>2024-02-10T16:43:45+07:00</updated>
+        <updated>2024-02-11T03:09:08+07:00</updated>
             <summary>
                 <![CDATA[
-                    A. Apa Itu Simple Turret Aim? Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple turret&hellip;
+                    A. Apa Itu Simple Turret Aim? Simple turret aim adalah sistem penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,7 +29,7 @@
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/C5QvUv4WKLU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Apa Itu Simple Turret Aim?</h3>
-<p>Simple turret aim adalah penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D.</p>
+<p>Simple turret aim adalah sistem penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D.</p>
 <p>Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse.</p>
 <h3>B. Karya Apakah Ini?</h3>
 <p>Karya ini adalah contoh project simple turret aim dengan Godot Engine 3.</p>
@@ -39,7 +39,7 @@
 <li>Contoh kode untuk membidik ke arah kursor</li>
 </ul>
 <h3>D. Peringatan</h3>
-<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
 <h3>E. Disclaimer</h3>
 <ul>
 <li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>
@@ -59,7 +59,7 @@
         <id>https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html</id>
             <category term="Product"/>
 
-        <updated>2024-02-10T16:43:53+07:00</updated>
+        <updated>2024-02-11T03:09:28+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Turret Turret adalah meriam. Istilah ini biasanya digunakan untuk merujuk pada struktur berputar yang dipasang di kapal, tank, atau posisi lainnya, yang berfungsi sebagai tempat untuk menempatkan senjata atau peralatan lainnya dan dapat diarahkan ke berbagai arah. Istilah "turret" juga dapat digunakan&hellip;
@@ -120,7 +120,7 @@
 <li>Contoh kode untuk menargetkan projectile untuk mengenai mendekati posisi kursor saat menembak.</li>
 </ul>
 <h3>D. Peringatan</h3>
-<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
 <h3>E. Disclaimer</h3>
 <ul>
 <li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>
@@ -140,7 +140,7 @@
         <id>https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html</id>
             <category term="Product"/>
 
-        <updated>2024-02-10T16:43:59+07:00</updated>
+        <updated>2024-02-11T03:09:44+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Navigation Mesh Agent (Nav Mesh Agent) Dalam pengembangan perangkat lunak, terutama dalam konteks pembuatan game dan simulasi, navigasi adalah aspek yang kritis untuk memberikan pengalaman interaktif yang mulus dan realistis. Salah satu komponen yang bertanggung jawab atas navigasi karakter atau objek di&hellip;
@@ -228,7 +228,7 @@
 <li>Contoh kode untuk mencari path ke arah target dan berjalan di sepanjangnya</li>
 </ul>
 <h3>D. Peringatan</h3>
-<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
 <h3>E. Disclaimer</h3>
 <ul>
 <li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>
@@ -248,7 +248,7 @@
         <id>https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html</id>
             <category term="Product"/>
 
-        <updated>2024-02-10T16:44:06+07:00</updated>
+        <updated>2024-02-11T03:09:57+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Image Gallery Dalam era digital ini, visualisasi memiliki peran yang semakin penting dalam cara kita berkomunikasi, berbagi pengalaman, dan menyimpan kenangan. Salah satu alat yang memainkan peran kunci dalam mengelola dan menikmati koleksi visual kita adalah aplikasi image gallery. Dengan pertumbuhan media&hellip;
@@ -331,7 +331,7 @@
 <li>Cara menerapkan tag pada gambar.</li>
 </ul>
 <h3>D. Peringatan</h3>
-<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
 <h3>E. Disclaimer</h3>
 <ul>
 <li>Source code tidak dijamin bisa dijalankan dengan benar.</li>
@@ -351,7 +351,7 @@
         <id>https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html</id>
             <category term="Product"/>
 
-        <updated>2024-02-10T16:44:12+07:00</updated>
+        <updated>2024-02-11T03:10:12+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Password Generator Dalam era di mana kehidupan kita semakin terdigitalisasi, perlindungan keamanan data pribadi kita menjadi semakin penting. Salah satu langkah kunci untuk melindungi diri secara online adalah menggunakan kata sandi yang kuat dan unik untuk setiap akun yang kita miliki. Sayangnya,&hellip;
@@ -430,7 +430,7 @@
 <li>Contoh kode membuat password dengan karakter unik jika memungkinkan</li>
 </ul>
 <h3>D. Peringatan</h3>
-<p>BACA README-nya terlebih dahulu sebelum mencoba.</p>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
 <h3>E. Disclaimer</h3>
 <ul>
 <li>Source code hanya teruji di Windows 11 dengan Python 3.10.11.</li>
@@ -451,7 +451,7 @@
         <id>https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html</id>
             <category term="Product"/>
 
-        <updated>2024-02-10T16:44:19+07:00</updated>
+        <updated>2024-02-11T03:10:24+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Sekilas tentang Video Player Apa Itu Video? Dalam era digital yang terus berkembang, video telah menjadi salah satu bentuk konten paling populer dan serbaguna. Dari tayangan pendek di media sosial hingga film panjang di platform streaming, kita tidak bisa menghindar dari daya tarik video.
