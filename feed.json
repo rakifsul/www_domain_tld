@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html",
+            "title": "Contoh Project Electron Dasar Koleksi 1",
+            "summary": "A. Pendahuluan Electron adalah framework untuk membuat aplikasi desktop dengan HTML, CSS, dan JavaScript. Pada karya ini, saya membuat beberapa contoh penggunaannya secara sederhana. Karya ini adalah contoh project Electron dasar koleksi 1. Isinya terdiri dari beberapa project Electron sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;",
+            "content_html": "<h3>A. Pendahuluan</h3>\n<p>Electron adalah framework untuk membuat aplikasi desktop dengan HTML, CSS, dan JavaScript.</p>\n<p>Pada karya ini, saya membuat beberapa contoh penggunaannya secara sederhana.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project Electron dasar koleksi 1.</p>\n<p>Isinya terdiri dari beberapa project Electron sederhana yang dikumpulkan.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara menggunakan console.log.</li>\n<li>Cara menggunakan ipc.</li>\n<li>Cara menggunakan jquery.</li>\n<li>Cara menggunakan loadURL.</li>\n<li>Cara menggunakan menu dan shell.</li>\n<li>Cara menggunakan message box.</li>\n<li>Cara menggunakan open dialog.</li>\n<li>Cara menggunakan save dialog.</li>\n<li>Cara menggunakan tray.</li>\n<li>Cara menggunakan webview tag.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-electron-dasar-koleksi-1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-02-13T02:38:09+07:00",
+            "date_modified": "2024-02-13T02:39:48+07:00"
+        },
+        {
             "id": "https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html",
             "url": "https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html",
             "title": "Contoh Project Node.js Dasar Koleksi 1",

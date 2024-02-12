@@ -3,12 +3,61 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-12T19:57:44+07:00</updated>
+    <updated>2024-02-13T02:39:48+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Contoh Project Electron Dasar Koleksi 1</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html"/>
+        <id>https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html</id>
+            <category term="Product"/>
+
+        <updated>2024-02-13T02:39:48+07:00</updated>
+            <summary>
+                <![CDATA[
+                    A. Pendahuluan Electron adalah framework untuk membuat aplikasi desktop dengan HTML, CSS, dan JavaScript. Pada karya ini, saya membuat beberapa contoh penggunaannya secara sederhana. Karya ini adalah contoh project Electron dasar koleksi 1. Isinya terdiri dari beberapa project Electron sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>A. Pendahuluan</h3>
+<p>Electron adalah framework untuk membuat aplikasi desktop dengan HTML, CSS, dan JavaScript.</p>
+<p>Pada karya ini, saya membuat beberapa contoh penggunaannya secara sederhana.</p>
+<h3>B. Karya Apakah Ini?</h3>
+<p>Karya ini adalah contoh project Electron dasar koleksi 1.</p>
+<p>Isinya terdiri dari beberapa project Electron sederhana yang dikumpulkan.</p>
+<h3>C. Fitur</h3>
+<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>
+<ul>
+<li>Cara menggunakan console.log.</li>
+<li>Cara menggunakan ipc.</li>
+<li>Cara menggunakan jquery.</li>
+<li>Cara menggunakan loadURL.</li>
+<li>Cara menggunakan menu dan shell.</li>
+<li>Cara menggunakan message box.</li>
+<li>Cara menggunakan open dialog.</li>
+<li>Cara menggunakan save dialog.</li>
+<li>Cara menggunakan tray.</li>
+<li>Cara menggunakan webview tag.</li>
+</ul>
+<h3>D. Peringatan</h3>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
+<h3>E. Disclaimer</h3>
+<ul>
+<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>
+<li>Source code memerlukan akses internet untuk men-download dependency.</li>
+</ul>
+<hr>
+<p class="align-center"><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/contoh-project-electron-dasar-koleksi-1" target="_blank" rel="nofollow noopener noreferrer">Dapatkan</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contoh Project Node.js Dasar Koleksi 1</title>
         <author>
