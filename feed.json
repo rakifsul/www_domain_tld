@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html",
+            "title": "Contoh Project Node.js Dasar Koleksi 1",
+            "summary": "A. Pendahuluan Node.js adalah runtime environment yang bisa digunakan untuk membuat beragam aplikasi. Di karya ini, saya memberikan beberapa contoh penggunaannya. Karya ini adalah contoh project Node.js dasar koleksi 1. Isinya terdiri dari beberapa project Node.js sederhana yang dikumpulkan. Sebagai contoh kode, karya ini bisa&hellip;",
+            "content_html": "<h3>A. Pendahuluan</h3>\n<p>Node.js adalah runtime environment yang bisa digunakan untuk membuat beragam aplikasi.</p>\n<p>Di karya ini, saya memberikan beberapa contoh penggunaannya.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project Node.js dasar koleksi 1.</p>\n<p>Isinya terdiri dari beberapa project Node.js sederhana yang dikumpulkan.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara menampilkan console.log.</li>\n<li>Cara menggunakan dotenv.</li>\n<li>Cara menggunakan express middleware.</li>\n<li>Cara menggunakan express router.</li>\n<li>Cara menampilkan hello world dengan express.</li>\n<li>Cara menampilkan hello world tanpa framework.</li>\n<li>Cara membaca dan menulis file.</li>\n<li>Cara menampilkan machine id.</li>\n<li>Cara menggunakan bcryptjs.</li>\n<li>Cara menggunakan nodemon.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-nodejs-dasar-koleksi-1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product"
+            ],
+            "date_published": "2024-02-12T19:56:25+07:00",
+            "date_modified": "2024-02-12T19:57:44+07:00"
+        },
+        {
             "id": "https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html",
             "url": "https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html",
             "title": "Contoh Project Godot Engine 3 Simple Turret Aim",

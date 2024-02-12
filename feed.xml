@@ -3,12 +3,61 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-11T03:52:13+07:00</updated>
+    <updated>2024-02-12T19:57:44+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Contoh Project Node.js Dasar Koleksi 1</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html"/>
+        <id>https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html</id>
+            <category term="Product"/>
+
+        <updated>2024-02-12T19:57:44+07:00</updated>
+            <summary>
+                <![CDATA[
+                    A. Pendahuluan Node.js adalah runtime environment yang bisa digunakan untuk membuat beragam aplikasi. Di karya ini, saya memberikan beberapa contoh penggunaannya. Karya ini adalah contoh project Node.js dasar koleksi 1. Isinya terdiri dari beberapa project Node.js sederhana yang dikumpulkan. Sebagai contoh kode, karya ini bisa&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>A. Pendahuluan</h3>
+<p>Node.js adalah runtime environment yang bisa digunakan untuk membuat beragam aplikasi.</p>
+<p>Di karya ini, saya memberikan beberapa contoh penggunaannya.</p>
+<h3>B. Karya Apakah Ini?</h3>
+<p>Karya ini adalah contoh project Node.js dasar koleksi 1.</p>
+<p>Isinya terdiri dari beberapa project Node.js sederhana yang dikumpulkan.</p>
+<h3>C. Fitur</h3>
+<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>
+<ul>
+<li>Cara menampilkan console.log.</li>
+<li>Cara menggunakan dotenv.</li>
+<li>Cara menggunakan express middleware.</li>
+<li>Cara menggunakan express router.</li>
+<li>Cara menampilkan hello world dengan express.</li>
+<li>Cara menampilkan hello world tanpa framework.</li>
+<li>Cara membaca dan menulis file.</li>
+<li>Cara menampilkan machine id.</li>
+<li>Cara menggunakan bcryptjs.</li>
+<li>Cara menggunakan nodemon.</li>
+</ul>
+<h3>D. Peringatan</h3>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
+<h3>E. Disclaimer</h3>
+<ul>
+<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>
+<li>Source code memerlukan akses internet untuk men-download dependency.</li>
+</ul>
+<hr>
+<p class="align-center"><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/contoh-project-nodejs-dasar-koleksi-1" target="_blank" rel="nofollow noopener noreferrer">Dapatkan</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contoh Project Godot Engine 3 Simple Turret Aim</title>
         <author>
