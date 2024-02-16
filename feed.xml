@@ -3,12 +3,81 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-13T02:39:48+07:00</updated>
+    <updated>2024-02-16T15:57:42+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Kenapa Saya Menggunakan Contoh Project yang Relatif Sederhana untuk Belajar Coding</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html"/>
+        <id>https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html</id>
+            <category term="Blog"/>
+
+        <updated>2024-02-16T15:57:27+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman. Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study. Itu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman.</p>
+<p>Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study.</p>
+<p>Itu bukan ide yang buruk tentunya, asalkan kita memanfaatkannya dengan tepat.</p>
+<p>Tapi, jika asumsinya, kita menggunakan metode tersebut untuk belajar sebagai pemula, itu bukan pendekatan yang bagus.</p>
+<p>Kenapa?</p>
+<p>Itu karena alasan-alasan ini.</p>
+<ol>
+<li>
+<p><strong>Keterbatasan Pengetahuan</strong>: Studi kasus tertentu mungkin tidak mencakup semua konsep atau teknologi yang relevan. Ini bisa menyebabkan kekurangan dalam pemahaman Anda tentang bagaimana teknologi atau konsep tertentu dapat diterapkan dalam konteks yang berbeda.</p>
+</li>
+<li>
+<p><strong>Ketergantungan pada Solusi yang Ada</strong>: Terkadang, ketika kita terlalu fokus pada satu studi kasus, kita cenderung mengikuti pola dan solusi yang ada tanpa benar-benar memahami alasan di baliknya. Ini dapat mengurangi kemampuan Anda untuk berpikir secara kreatif dan menciptakan solusi yang unik.</p>
+</li>
+<li>
+<p><strong>Keterbatasan dalam Pemecahan Masalah</strong>: Studi kasus tertentu mungkin tidak mengeksplorasi berbagai macam masalah atau tantangan yang mungkin Anda hadapi saat mengembangkan aplikasi. Ini dapat menyebabkan kurangnya pengalaman dalam memecahkan masalah yang beragam.</p>
+</li>
+<li>
+<p><strong>Kesulitan dalam Pemahaman Konsep Abstrak</strong>: Beberapa konsep pemrograman dapat sulit dipahami hanya dengan menonton studi kasus pembuatan aplikasi. Konsep-konsep seperti algoritma kompleks atau struktur data mungkin memerlukan penjelasan yang lebih mendalam dan contoh yang lebih abstrak.</p>
+</li>
+<li>
+<p><strong>Keterbatasan Interaksi Langsung</strong>: Dalam menonton studi kasus, Anda mungkin tidak memiliki kesempatan untuk berinteraksi langsung dengan kode atau percobaan sendiri. Ini dapat mengurangi pemahaman Anda tentang bagaimana kode bekerja dan bagaimana melakukan debugging atau troubleshooting saat menghadapi kesalahan.</p>
+</li>
+<li>
+<p><strong>Ketidakberlanjutan</strong>: Terkadang, solusi dalam studi kasus mungkin sudah ketinggalan zaman atau tidak relevan lagi karena perubahan dalam teknologi atau praktik terbaik. Ini bisa menjadi masalah jika Anda terlalu bergantung pada studi kasus tersebut sebagai sumber pembelajaran utama Anda.</p>
+</li>
+</ol>
+<p>Jika Anda masih belum percaya, coba tanyakan pada diri Anda sendiri.</p>
+<p>Apakah sebagai pemula dalam ilmu fisika, Anda akan belajar fisika dengan cara membuat mobil?</p>
+<p>Tentu tidak, bukan?</p>
+<p>Lalu, apa cara yang terbaik?</p>
+<p>Menurut saya, kita harus memulainya dengan memecah aplikasi besar menjadi bagian-bagian kecil.</p>
+<p>Sebagai contoh, daripada Anda belajar cara membuat sistem informasi X dari nol sampai jadi, lebih baik pecah dulu menjadi seperti ini:</p>
+<ul>
+<li>Contoh project aplikasi login/logout/register</li>
+<li>Contoh project create, read, update, delete</li>
+<li>Contoh project pagination</li>
+<li>Contoh project infinite scroll</li>
+<li>Contoh project data searching</li>
+<li>Dan lain-lain</li>
+</ul>
+<p>Selain itu, perhatikan juga bahwa akan lebih baik jika kita menggunakan contoh project, bukannya ebook atau video.</p>
+<p>Kenapa?</p>
+<p>Karena dalam bahasa pemrograman ada fitur komentar.</p>
+<p>Di mana kita bisa menjelaskan apa yang dilakukan kode tertentu langsung pada file script-nya.</p>
+<p>Dengan demikian, maka kita tidak akan kehilangan fokus antara kode dan pembahasannya.</p>
+<p>Karena alasan tadilah, saya, di RAKIFSUL menjual contoh project sederhana.</p>
+<p>Tujuannya agar bisa Anda pelajari.</p>
+<p>Dan, karena contohnya sederhana, saya bisa menjualnya dengan harga yang murah.</p>
+<p>Jadi, <a href="https://www.rakifsul.my.id/tags/product/">ayo beli semuanya</a>...</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contoh Project Electron Dasar Koleksi 1</title>
         <author>
@@ -55,6 +124,58 @@
 </ul>
 <hr>
 <p class="align-center"><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/contoh-project-electron-dasar-koleksi-1" target="_blank" rel="nofollow noopener noreferrer">Dapatkan</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ini Alasannya Anda perlu Belajar Coding dengan Membaca Kode</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html"/>
+        <id>https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html</id>
+            <category term="Blog"/>
+
+        <updated>2024-02-16T15:57:42+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Membaca kode untuk memahami sebuah program mungkin umum dilakukan, bahkan sebagai programmer pemula sekalipun. Namun aktifitas ini mungkin tersamarkan dengan video tutorial dan ebook yang kita baca. Kita menyangka bahwa kita telah belajar dari video ataupun ebook, walaupun ujungnya, kita harus memahami kode yang diberikan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Membaca kode untuk memahami sebuah program mungkin umum dilakukan, bahkan sebagai programmer pemula sekalipun.</p>
+<p>Namun aktifitas ini mungkin tersamarkan dengan video tutorial dan ebook yang kita baca.</p>
+<p>Kita menyangka bahwa kita telah belajar dari video ataupun ebook, walaupun ujungnya, kita harus memahami kode yang diberikan dari media tersebut.</p>
+<p>Belajar coding dengan membaca kode merupakan salah satu cara yang bagus untuk meningkatkan pemahaman tentang cara kerja suatu program atau proyek perangkat lunak. </p>
+<p>Dengan cara itu kita bisa memahami konsep, mempelajari best practices, mengembangkan keterampilan problem solving, dan lain-lain.</p>
+<p>Berikut ini adalah alasan mengapa kita perlu belajar coding dengan membaca kode.</p>
+<ol>
+<li>
+<p><strong>Memahami Konsep Pemrograman</strong>: Membaca kode membantu programmer pemula memahami konsep-konsep dasar pemrograman seperti variabel, kontrol aliran, fungsi, dan struktur data. Ini membentuk dasar yang kuat untuk memahami bahasa pemrograman secara keseluruhan.</p>
+</li>
+<li>
+<p><strong>Mempelajari Best Practice</strong>: Dengan membaca kode dari proyek-proyek yang sudah ada, programmer pemula dapat mempelajari praktik terbaik dalam menulis kode yang efisien, mudah dimengerti, dan mudah dikelola. Ini membantu dalam mengembangkan keterampilan penulisan kode yang baik.</p>
+</li>
+<li>
+<p><strong>Mengenal Berbagai Gaya Penulisan Kode</strong>: Melalui membaca kode dari berbagai proyek, programmer pemula dapat terbiasa dengan berbagai gaya penulisan kode. Ini akan membantu mereka menjadi lebih fleksibel dan dapat beradaptasi dengan mudah saat bekerja di proyek-proyek yang berbeda.</p>
+</li>
+<li>
+<p><strong>Memahami Struktur Proyek</strong>: Membaca kode memungkinkan programmer pemula untuk memahami bagaimana suatu proyek perangkat lunak diorganisir dan struktur file dan folder yang umumnya digunakan. Ini penting karena pengembangan perangkat lunak sering melibatkan kerja dalam tim dan berkolaborasi pada proyek yang kompleks.</p>
+</li>
+<li>
+<p><strong>Mempelajari Cara Memecahkan Masalah</strong>: Dengan membaca kode, programmer pemula dapat melihat cara-cara yang berbeda untuk memecahkan masalah dan mengimplementasikan solusi dalam kode. Ini membantu mereka mengembangkan keterampilan pemecahan masalah yang sangat penting dalam dunia pemrograman.</p>
+</li>
+<li>
+<p><strong>Menginspirasi Kreativitas</strong>: Melalui membaca kode dari proyek-proyek yang menarik dan menantang, programmer pemula dapat terinspirasi untuk menciptakan solusi-solusi baru dan mengembangkan ide-ide kreatif untuk proyek mereka sendiri.</p>
+</li>
+</ol>
+<p>Dan ini adalah alasan yang paling penting.</p>
+<p>Di dalam dunia nyata coding, baik itu dalam pekerjaan kantor maupun freelance, seringkali kita menemukan masalah yang jawabannya tidak ada di manapun kecuali di dalam kode itu sendiri atau di dependencies-nya.</p>
+<p>Bahkan, tidak ada di dokumentasinya sekalipun.</p>
+<p>Konsekuensinya, kita harus mampu memahami masalah tersebut dan mendapatkan jawabannya dari kode yang kita baca.</p>
+<p>Dengan membiasakan diri memahami program dengan membaca kode sejak awal, maka diharapkan kita bisa terbiasa melakukannya sejak dini.</p>
+<p>Dengan alasan-alasan tadi, menurut saya belajar coding sambil membaca kode merupakan skill yang sangat berharga.</p>
             ]]>
         </content>
     </entry>
