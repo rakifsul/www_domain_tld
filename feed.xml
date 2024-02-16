@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-17T02:27:09+07:00</updated>
+    <updated>2024-02-17T03:13:42+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -16,10 +16,9 @@
         </author>
         <link href="https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html"/>
         <id>https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html</id>
-            <category term="Funnel"/>
             <category term="Awareness Funnel"/>
 
-        <updated>2024-02-17T02:27:09+07:00</updated>
+        <updated>2024-02-17T03:13:04+07:00</updated>
             <summary>
                 <![CDATA[
                     belum ditulis
@@ -38,10 +37,9 @@
         </author>
         <link href="https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html"/>
         <id>https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html</id>
-            <category term="Funnel"/>
-            <category term="Education Funnel"/>
+            <category term="Consideration Funnel"/>
 
-        <updated>2024-02-17T02:24:03+07:00</updated>
+        <updated>2024-02-17T03:13:10+07:00</updated>
             <summary>
                 <![CDATA[
                     Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman. Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study. Itu&hellip;
@@ -97,7 +95,7 @@
 <p>Karena alasan tadilah, saya, di RAKIFSUL menjual contoh project sederhana.</p>
 <p>Tujuannya agar bisa Anda pelajari.</p>
 <p>Dan, karena contohnya sederhana, saya bisa menjualnya dengan harga yang murah.</p>
-<p>Jadi, <a href="https://www.rakifsul.my.id/tags/product/">ayo beli semuanya</a>...</p>
+<p>Jadi, <a href="https://www.rakifsul.my.id/tags/product-decision-funnel/">ayo beli semuanya</a>...</p>
             ]]>
         </content>
     </entry>
@@ -108,7 +106,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-13T02:39:48+07:00</updated>
             <summary>
@@ -157,10 +155,9 @@
         </author>
         <link href="https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html"/>
         <id>https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html</id>
-            <category term="Funnel"/>
-            <category term="Education Funnel"/>
+            <category term="Consideration Funnel"/>
 
-        <updated>2024-02-17T02:23:31+07:00</updated>
+        <updated>2024-02-17T03:13:17+07:00</updated>
             <summary>
                 <![CDATA[
                     Membaca kode untuk memahami sebuah program mungkin umum dilakukan, bahkan sebagai programmer pemula sekalipun. Namun aktifitas ini mungkin tersamarkan dengan video tutorial dan ebook yang kita baca. Kita menyangka bahwa kita telah belajar dari video ataupun ebook, walaupun ujungnya, kita harus memahami kode yang diberikan&hellip;
@@ -210,7 +207,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-12T19:57:44+07:00</updated>
             <summary>
@@ -259,7 +256,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-11T03:09:08+07:00</updated>
             <summary>
@@ -300,7 +297,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-11T03:49:27+07:00</updated>
             <summary>
@@ -340,7 +337,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-11T03:50:09+07:00</updated>
             <summary>
@@ -380,7 +377,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html"/>
         <id>https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-11T03:51:04+07:00</updated>
             <summary>
@@ -426,7 +423,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html"/>
         <id>https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-11T03:51:40+07:00</updated>
             <summary>
@@ -473,7 +470,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html"/>
         <id>https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html</id>
-            <category term="Product"/>
+            <category term="Product Decision Funnel"/>
 
         <updated>2024-02-11T03:52:13+07:00</updated>
             <summary>
@@ -514,7 +511,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/galeri-model-3d.html"/>
         <id>https://www.rakifsul.my.id/galeri-model-3d.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-28T01:23:58+07:00</updated>
             <summary></summary>
@@ -543,7 +540,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/galeri-desain-web.html"/>
         <id>https://www.rakifsul.my.id/galeri-desain-web.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-28T01:24:05+07:00</updated>
             <summary></summary>
@@ -566,7 +563,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:27:27+07:00</updated>
             <summary>
@@ -618,7 +615,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-company-profile.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-company-profile.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:28:03+07:00</updated>
             <summary>
@@ -668,7 +665,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-paste-sharing.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-paste-sharing.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:28:22+07:00</updated>
             <summary>
@@ -724,7 +721,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-blog-cms.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-blog-cms.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:28:34+07:00</updated>
             <summary>
@@ -780,7 +777,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:28:51+07:00</updated>
             <summary>
@@ -833,7 +830,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-video-player.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-video-player.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:29:47+07:00</updated>
             <summary>
@@ -881,7 +878,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-shutdown-otomatis.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-shutdown-otomatis.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:30:05+07:00</updated>
             <summary>
@@ -925,7 +922,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-game-turret.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-game-turret.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:30:15+07:00</updated>
             <summary>
@@ -963,7 +960,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-suara-keyboard.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-suara-keyboard.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:30:30+07:00</updated>
             <summary>
@@ -1009,7 +1006,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-pembuat-password.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-pembuat-password.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:30:43+07:00</updated>
             <summary>
@@ -1053,7 +1050,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-web-browser-otomatis.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-web-browser-otomatis.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:30:56+07:00</updated>
             <summary>
@@ -1113,7 +1110,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-game-tank.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-game-tank.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:31:08+07:00</updated>
             <summary>
@@ -1153,7 +1150,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-game-off-road.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-game-off-road.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:31:19+07:00</updated>
             <summary>
@@ -1193,7 +1190,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-website-downloader.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-website-downloader.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:31:29+07:00</updated>
             <summary>
@@ -1247,7 +1244,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/aplikasi-desktop-embed-protector.html"/>
         <id>https://www.rakifsul.my.id/aplikasi-desktop-embed-protector.html</id>
-            <category term="Portfolio"/>
+            <category term="Service Decision Funnel"/>
 
         <updated>2024-01-27T06:31:41+07:00</updated>
             <summary>
@@ -1303,10 +1300,9 @@
         </author>
         <link href="https://www.rakifsul.my.id/kenapa-anda-harus-menggunakan-rakifsul.html"/>
         <id>https://www.rakifsul.my.id/kenapa-anda-harus-menggunakan-rakifsul.html</id>
-            <category term="Funnel"/>
-            <category term="Education Funnel"/>
+            <category term="Consideration Funnel"/>
 
-        <updated>2024-02-17T02:21:54+07:00</updated>
+        <updated>2024-02-17T03:13:42+07:00</updated>
             <summary>
                 <![CDATA[
                     Selamat datang di website saya. Sebelumnya, izinkan saya memperkenalkan diri. Saya adalah RAKIFSUL. Hobi saya adalah coding dan menulis. Karena kedua hobi tersebut bisa diuangkan, maka saya memutuskan untuk membuka layanan coding. Skill yang saya kuasai adalah HTML, CSS, JavaScript, PHP, C++, Python, dan GDScript.

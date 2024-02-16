@@ -19,27 +19,25 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Funnel",
                    "Awareness Funnel"
             ],
             "date_published": "2024-02-17T02:27:00+07:00",
-            "date_modified": "2024-02-17T02:27:09+07:00"
+            "date_modified": "2024-02-17T03:13:04+07:00"
         },
         {
             "id": "https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html",
             "url": "https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html",
             "title": "Kenapa Saya Menggunakan Contoh Project yang Relatif Sederhana untuk Belajar Coding",
             "summary": "Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman. Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study. Itu&hellip;",
-            "content_html": "<p>Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman.</p>\n<p>Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study.</p>\n<p>Itu bukan ide yang buruk tentunya, asalkan kita memanfaatkannya dengan tepat.</p>\n<p>Tapi, jika asumsinya, kita menggunakan metode tersebut untuk belajar sebagai pemula, itu bukan pendekatan yang bagus.</p>\n<p>Kenapa?</p>\n<p>Itu karena alasan-alasan ini.</p>\n<ol>\n<li>\n<p><strong>Keterbatasan Pengetahuan</strong>: Studi kasus tertentu mungkin tidak mencakup semua konsep atau teknologi yang relevan. Ini bisa menyebabkan kekurangan dalam pemahaman Anda tentang bagaimana teknologi atau konsep tertentu dapat diterapkan dalam konteks yang berbeda.</p>\n</li>\n<li>\n<p><strong>Ketergantungan pada Solusi yang Ada</strong>: Terkadang, ketika kita terlalu fokus pada satu studi kasus, kita cenderung mengikuti pola dan solusi yang ada tanpa benar-benar memahami alasan di baliknya. Ini dapat mengurangi kemampuan Anda untuk berpikir secara kreatif dan menciptakan solusi yang unik.</p>\n</li>\n<li>\n<p><strong>Keterbatasan dalam Pemecahan Masalah</strong>: Studi kasus tertentu mungkin tidak mengeksplorasi berbagai macam masalah atau tantangan yang mungkin Anda hadapi saat mengembangkan aplikasi. Ini dapat menyebabkan kurangnya pengalaman dalam memecahkan masalah yang beragam.</p>\n</li>\n<li>\n<p><strong>Kesulitan dalam Pemahaman Konsep Abstrak</strong>: Beberapa konsep pemrograman dapat sulit dipahami hanya dengan menonton studi kasus pembuatan aplikasi. Konsep-konsep seperti algoritma kompleks atau struktur data mungkin memerlukan penjelasan yang lebih mendalam dan contoh yang lebih abstrak.</p>\n</li>\n<li>\n<p><strong>Keterbatasan Interaksi Langsung</strong>: Dalam menonton studi kasus, Anda mungkin tidak memiliki kesempatan untuk berinteraksi langsung dengan kode atau percobaan sendiri. Ini dapat mengurangi pemahaman Anda tentang bagaimana kode bekerja dan bagaimana melakukan debugging atau troubleshooting saat menghadapi kesalahan.</p>\n</li>\n<li>\n<p><strong>Ketidakberlanjutan</strong>: Terkadang, solusi dalam studi kasus mungkin sudah ketinggalan zaman atau tidak relevan lagi karena perubahan dalam teknologi atau praktik terbaik. Ini bisa menjadi masalah jika Anda terlalu bergantung pada studi kasus tersebut sebagai sumber pembelajaran utama Anda.</p>\n</li>\n</ol>\n<p>Jika Anda masih belum percaya, coba tanyakan pada diri Anda sendiri.</p>\n<p>Apakah sebagai pemula dalam ilmu fisika, Anda akan belajar fisika dengan cara membuat mobil?</p>\n<p>Tentu tidak, bukan?</p>\n<p>Lalu, apa cara yang terbaik?</p>\n<p>Menurut saya, kita harus memulainya dengan memecah aplikasi besar menjadi bagian-bagian kecil.</p>\n<p>Sebagai contoh, daripada Anda belajar cara membuat sistem informasi X dari nol sampai jadi, lebih baik pecah dulu menjadi seperti ini:</p>\n<ul>\n<li>Contoh project aplikasi login/logout/register</li>\n<li>Contoh project create, read, update, delete</li>\n<li>Contoh project pagination</li>\n<li>Contoh project infinite scroll</li>\n<li>Contoh project data searching</li>\n<li>Dan lain-lain</li>\n</ul>\n<p>Selain itu, perhatikan juga bahwa akan lebih baik jika kita menggunakan contoh project, bukannya ebook atau video.</p>\n<p>Kenapa?</p>\n<p>Karena dalam bahasa pemrograman ada fitur komentar.</p>\n<p>Di mana kita bisa menjelaskan apa yang dilakukan kode tertentu langsung pada file script-nya.</p>\n<p>Dengan demikian, maka kita tidak akan kehilangan fokus antara kode dan pembahasannya.</p>\n<p>Karena alasan tadilah, saya, di RAKIFSUL menjual contoh project sederhana.</p>\n<p>Tujuannya agar bisa Anda pelajari.</p>\n<p>Dan, karena contohnya sederhana, saya bisa menjualnya dengan harga yang murah.</p>\n<p>Jadi, <a href=\"https://www.rakifsul.my.id/tags/product/\">ayo beli semuanya</a>...</p>",
+            "content_html": "<p>Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman.</p>\n<p>Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study.</p>\n<p>Itu bukan ide yang buruk tentunya, asalkan kita memanfaatkannya dengan tepat.</p>\n<p>Tapi, jika asumsinya, kita menggunakan metode tersebut untuk belajar sebagai pemula, itu bukan pendekatan yang bagus.</p>\n<p>Kenapa?</p>\n<p>Itu karena alasan-alasan ini.</p>\n<ol>\n<li>\n<p><strong>Keterbatasan Pengetahuan</strong>: Studi kasus tertentu mungkin tidak mencakup semua konsep atau teknologi yang relevan. Ini bisa menyebabkan kekurangan dalam pemahaman Anda tentang bagaimana teknologi atau konsep tertentu dapat diterapkan dalam konteks yang berbeda.</p>\n</li>\n<li>\n<p><strong>Ketergantungan pada Solusi yang Ada</strong>: Terkadang, ketika kita terlalu fokus pada satu studi kasus, kita cenderung mengikuti pola dan solusi yang ada tanpa benar-benar memahami alasan di baliknya. Ini dapat mengurangi kemampuan Anda untuk berpikir secara kreatif dan menciptakan solusi yang unik.</p>\n</li>\n<li>\n<p><strong>Keterbatasan dalam Pemecahan Masalah</strong>: Studi kasus tertentu mungkin tidak mengeksplorasi berbagai macam masalah atau tantangan yang mungkin Anda hadapi saat mengembangkan aplikasi. Ini dapat menyebabkan kurangnya pengalaman dalam memecahkan masalah yang beragam.</p>\n</li>\n<li>\n<p><strong>Kesulitan dalam Pemahaman Konsep Abstrak</strong>: Beberapa konsep pemrograman dapat sulit dipahami hanya dengan menonton studi kasus pembuatan aplikasi. Konsep-konsep seperti algoritma kompleks atau struktur data mungkin memerlukan penjelasan yang lebih mendalam dan contoh yang lebih abstrak.</p>\n</li>\n<li>\n<p><strong>Keterbatasan Interaksi Langsung</strong>: Dalam menonton studi kasus, Anda mungkin tidak memiliki kesempatan untuk berinteraksi langsung dengan kode atau percobaan sendiri. Ini dapat mengurangi pemahaman Anda tentang bagaimana kode bekerja dan bagaimana melakukan debugging atau troubleshooting saat menghadapi kesalahan.</p>\n</li>\n<li>\n<p><strong>Ketidakberlanjutan</strong>: Terkadang, solusi dalam studi kasus mungkin sudah ketinggalan zaman atau tidak relevan lagi karena perubahan dalam teknologi atau praktik terbaik. Ini bisa menjadi masalah jika Anda terlalu bergantung pada studi kasus tersebut sebagai sumber pembelajaran utama Anda.</p>\n</li>\n</ol>\n<p>Jika Anda masih belum percaya, coba tanyakan pada diri Anda sendiri.</p>\n<p>Apakah sebagai pemula dalam ilmu fisika, Anda akan belajar fisika dengan cara membuat mobil?</p>\n<p>Tentu tidak, bukan?</p>\n<p>Lalu, apa cara yang terbaik?</p>\n<p>Menurut saya, kita harus memulainya dengan memecah aplikasi besar menjadi bagian-bagian kecil.</p>\n<p>Sebagai contoh, daripada Anda belajar cara membuat sistem informasi X dari nol sampai jadi, lebih baik pecah dulu menjadi seperti ini:</p>\n<ul>\n<li>Contoh project aplikasi login/logout/register</li>\n<li>Contoh project create, read, update, delete</li>\n<li>Contoh project pagination</li>\n<li>Contoh project infinite scroll</li>\n<li>Contoh project data searching</li>\n<li>Dan lain-lain</li>\n</ul>\n<p>Selain itu, perhatikan juga bahwa akan lebih baik jika kita menggunakan contoh project, bukannya ebook atau video.</p>\n<p>Kenapa?</p>\n<p>Karena dalam bahasa pemrograman ada fitur komentar.</p>\n<p>Di mana kita bisa menjelaskan apa yang dilakukan kode tertentu langsung pada file script-nya.</p>\n<p>Dengan demikian, maka kita tidak akan kehilangan fokus antara kode dan pembahasannya.</p>\n<p>Karena alasan tadilah, saya, di RAKIFSUL menjual contoh project sederhana.</p>\n<p>Tujuannya agar bisa Anda pelajari.</p>\n<p>Dan, karena contohnya sederhana, saya bisa menjualnya dengan harga yang murah.</p>\n<p>Jadi, <a href=\"https://www.rakifsul.my.id/tags/product-decision-funnel/\">ayo beli semuanya</a>...</p>",
             "author": {
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Funnel",
-                   "Education Funnel"
+                   "Consideration Funnel"
             ],
             "date_published": "2024-02-14T23:41:53+07:00",
-            "date_modified": "2024-02-17T02:24:03+07:00"
+            "date_modified": "2024-02-17T03:13:10+07:00"
         },
         {
             "id": "https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html",
@@ -51,7 +49,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-02-13T02:38:09+07:00",
             "date_modified": "2024-02-13T02:39:48+07:00"
@@ -66,11 +64,10 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Funnel",
-                   "Education Funnel"
+                   "Consideration Funnel"
             ],
             "date_published": "2024-02-13T01:22:34+07:00",
-            "date_modified": "2024-02-17T02:23:31+07:00"
+            "date_modified": "2024-02-17T03:13:17+07:00"
         },
         {
             "id": "https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html",
@@ -82,7 +79,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-02-12T19:56:25+07:00",
             "date_modified": "2024-02-12T19:57:44+07:00"
@@ -97,7 +94,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-01-28T01:29:54+07:00",
             "date_modified": "2024-02-11T03:09:08+07:00"
@@ -112,7 +109,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-01-28T01:29:38+07:00",
             "date_modified": "2024-02-11T03:49:27+07:00"
@@ -127,7 +124,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-01-28T01:29:19+07:00",
             "date_modified": "2024-02-11T03:50:09+07:00"
@@ -142,7 +139,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-01-28T01:28:19+07:00",
             "date_modified": "2024-02-11T03:51:04+07:00"
@@ -157,7 +154,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-01-28T01:27:44+07:00",
             "date_modified": "2024-02-11T03:51:40+07:00"
@@ -172,7 +169,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Product"
+                   "Product Decision Funnel"
             ],
             "date_published": "2024-01-28T01:27:19+07:00",
             "date_modified": "2024-02-11T03:52:13+07:00"
@@ -186,7 +183,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-12-22T07:25:38+07:00",
             "date_modified": "2024-01-28T01:23:58+07:00"
@@ -200,7 +197,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-12-22T07:23:57+07:00",
             "date_modified": "2024-01-28T01:24:05+07:00"
@@ -215,7 +212,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-12-18T23:02:01+07:00",
             "date_modified": "2024-01-27T06:27:27+07:00"
@@ -230,7 +227,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-12-11T23:42:21+07:00",
             "date_modified": "2024-01-27T06:28:03+07:00"
@@ -245,7 +242,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-12-11T23:36:24+07:00",
             "date_modified": "2024-01-27T06:28:22+07:00"
@@ -260,7 +257,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-12-11T23:12:54+07:00",
             "date_modified": "2024-01-27T06:28:34+07:00"
@@ -275,7 +272,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-12-02T03:47:04+07:00",
             "date_modified": "2024-01-27T06:28:51+07:00"
@@ -290,7 +287,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-27T15:29:06+07:00",
             "date_modified": "2024-01-27T06:29:47+07:00"
@@ -305,7 +302,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-06T18:57:51+07:00",
             "date_modified": "2024-01-27T06:30:05+07:00"
@@ -320,7 +317,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-06T18:53:51+07:00",
             "date_modified": "2024-01-27T06:30:15+07:00"
@@ -335,7 +332,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-06T18:52:23+07:00",
             "date_modified": "2024-01-27T06:30:30+07:00"
@@ -350,7 +347,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-06T18:49:57+07:00",
             "date_modified": "2024-01-27T06:30:43+07:00"
@@ -365,7 +362,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-06T18:46:53+07:00",
             "date_modified": "2024-01-27T06:30:56+07:00"
@@ -380,7 +377,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-05T02:04:29+07:00",
             "date_modified": "2024-01-27T06:31:08+07:00"
@@ -395,7 +392,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-05T02:03:14+07:00",
             "date_modified": "2024-01-27T06:31:19+07:00"
@@ -410,7 +407,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-05T01:11:44+07:00",
             "date_modified": "2024-01-27T06:31:29+07:00"
@@ -425,7 +422,7 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Portfolio"
+                   "Service Decision Funnel"
             ],
             "date_published": "2023-11-05T01:11:20+07:00",
             "date_modified": "2024-01-27T06:31:41+07:00"
@@ -440,11 +437,10 @@
                 "name": "RAKIFSUL"
             },
             "tags": [
-                   "Funnel",
-                   "Education Funnel"
+                   "Consideration Funnel"
             ],
             "date_published": "2023-11-04T23:42:37+07:00",
-            "date_modified": "2024-02-17T02:21:54+07:00"
+            "date_modified": "2024-02-17T03:13:42+07:00"
         }
     ]
 }
