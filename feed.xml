@@ -3,12 +3,34 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-16T15:57:42+07:00</updated>
+    <updated>2024-02-17T02:27:09+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Anda Bingung Memilih Bahasa Pemrograman? Baca Ini Dulu!</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html"/>
+        <id>https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html</id>
+            <category term="Funnel"/>
+            <category term="Awareness Funnel"/>
+
+        <updated>2024-02-17T02:27:09+07:00</updated>
+            <summary>
+                <![CDATA[
+                    belum ditulis
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>belum ditulis</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kenapa Saya Menggunakan Contoh Project yang Relatif Sederhana untuk Belajar Coding</title>
         <author>
@@ -16,9 +38,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html"/>
         <id>https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html</id>
-            <category term="Blog"/>
+            <category term="Funnel"/>
+            <category term="Education Funnel"/>
 
-        <updated>2024-02-16T15:57:27+07:00</updated>
+        <updated>2024-02-17T02:24:03+07:00</updated>
             <summary>
                 <![CDATA[
                     Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman. Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study. Itu&hellip;
@@ -134,9 +157,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html"/>
         <id>https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html</id>
-            <category term="Blog"/>
+            <category term="Funnel"/>
+            <category term="Education Funnel"/>
 
-        <updated>2024-02-16T15:57:42+07:00</updated>
+        <updated>2024-02-17T02:23:31+07:00</updated>
             <summary>
                 <![CDATA[
                     Membaca kode untuk memahami sebuah program mungkin umum dilakukan, bahkan sebagai programmer pemula sekalipun. Namun aktifitas ini mungkin tersamarkan dengan video tutorial dan ebook yang kita baca. Kita menyangka bahwa kita telah belajar dari video ataupun ebook, walaupun ujungnya, kita harus memahami kode yang diberikan&hellip;
@@ -1279,9 +1303,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/kenapa-anda-harus-menggunakan-rakifsul.html"/>
         <id>https://www.rakifsul.my.id/kenapa-anda-harus-menggunakan-rakifsul.html</id>
-            <category term="Blog"/>
+            <category term="Funnel"/>
+            <category term="Education Funnel"/>
 
-        <updated>2023-12-19T04:28:26+07:00</updated>
+        <updated>2024-02-17T02:21:54+07:00</updated>
             <summary>
                 <![CDATA[
                     Selamat datang di website saya. Sebelumnya, izinkan saya memperkenalkan diri. Saya adalah RAKIFSUL. Hobi saya adalah coding dan menulis. Karena kedua hobi tersebut bisa diuangkan, maka saya memutuskan untuk membuka layanan coding. Skill yang saya kuasai adalah HTML, CSS, JavaScript, PHP, C++, Python, dan GDScript.
