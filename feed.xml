@@ -3,12 +3,62 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-18T03:48:45+07:00</updated>
+    <updated>2024-02-18T07:06:34+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://www.rakifsul.my.id</id>
 
+    <entry>
+        <title>Contoh Project Python 3 Dasar Koleksi 1</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html"/>
+        <id>https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html</id>
+            <category term="Product Decision Funnel"/>
+
+        <updated>2024-02-18T07:06:34+07:00</updated>
+            <summary>
+                <![CDATA[
+                    A. Pendahuluan Python 3 adalah bahasa pemrograman yang banyak kegunaannya. Salah satu ciri dari Python 3 adalah penggunaan indentation dalam penulisan script-nya. Karya ini adalah contoh project Python 3 dasar koleksi 1. Isinya terdiri dari beberapa project Python 3 sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>A. Pendahuluan</h3>
+<p>Python 3 adalah bahasa pemrograman yang banyak kegunaannya.</p>
+<p>Salah satu ciri dari Python 3 adalah penggunaan indentation dalam penulisan script-nya.</p>
+<h3>B. Karya Apakah Ini?</h3>
+<p>Karya ini adalah contoh project Python 3 dasar koleksi 1.</p>
+<p>Isinya terdiri dari beberapa project Python 3 sederhana yang dikumpulkan.</p>
+<h3>C. Fitur</h3>
+<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>
+<ul>
+<li>Cara membaca csv.</li>
+<li>Cara menulis csv.</li>
+<li>Cara menggunakan file.</li>
+<li>Cara menggunakan json.</li>
+<li>Cara menggunakan modul sendiri.</li>
+<li>Cara menggunakan modul os.</li>
+<li>Cara menggunakan modul sys.</li>
+<li>Cara menggunakan modul _thread.</li>
+<li>Cara menggunakan modul threading.</li>
+<li>Cara menggunakan modul urllib.</li>
+</ul>
+<h3>D. Peringatan</h3>
+<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>
+<h3>E. Disclaimer</h3>
+<ul>
+<li>Source code hanya teruji di Windows 11 dengan Python 3.10.11.</li>
+<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>
+<li>Source code mungkin memerlukan akses internet untuk men-download dependency.</li>
+</ul>
+<hr>
+<p class="align-center"><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/contoh-project-python-3-dasar-koleksi-1" target="_blank" rel="nofollow noopener noreferrer">Dapatkan</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Anda Bingung Memilih Bahasa Pemrograman? Baca Ini Dulu!</title>
         <author>

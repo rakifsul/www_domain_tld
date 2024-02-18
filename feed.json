@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html",
+            "url": "https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html",
+            "title": "Contoh Project Python 3 Dasar Koleksi 1",
+            "summary": "A. Pendahuluan Python 3 adalah bahasa pemrograman yang banyak kegunaannya. Salah satu ciri dari Python 3 adalah penggunaan indentation dalam penulisan script-nya. Karya ini adalah contoh project Python 3 dasar koleksi 1. Isinya terdiri dari beberapa project Python 3 sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;",
+            "content_html": "<h3>A. Pendahuluan</h3>\n<p>Python 3 adalah bahasa pemrograman yang banyak kegunaannya.</p>\n<p>Salah satu ciri dari Python 3 adalah penggunaan indentation dalam penulisan script-nya.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project Python 3 dasar koleksi 1.</p>\n<p>Isinya terdiri dari beberapa project Python 3 sederhana yang dikumpulkan.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara membaca csv.</li>\n<li>Cara menulis csv.</li>\n<li>Cara menggunakan file.</li>\n<li>Cara menggunakan json.</li>\n<li>Cara menggunakan modul sendiri.</li>\n<li>Cara menggunakan modul os.</li>\n<li>Cara menggunakan modul sys.</li>\n<li>Cara menggunakan modul _thread.</li>\n<li>Cara menggunakan modul threading.</li>\n<li>Cara menggunakan modul urllib.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code hanya teruji di Windows 11 dengan Python 3.10.11.</li>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code mungkin memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-python-3-dasar-koleksi-1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Product Decision Funnel"
+            ],
+            "date_published": "2024-02-18T07:04:50+07:00",
+            "date_modified": "2024-02-18T07:06:34+07:00"
+        },
+        {
             "id": "https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html",
             "url": "https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html",
             "title": "Anda Bingung Memilih Bahasa Pemrograman? Baca Ini Dulu!",
