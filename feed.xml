@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-25T03:31:03+07:00</updated>
+    <updated>2024-02-25T03:37:19+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.rakifsul.my.id/tips-memperbaiki-bug-saat-coding.html</id>
             <category term="Awareness Funnel"/>
 
-        <updated>2024-02-25T03:31:03+07:00</updated>
+        <updated>2024-02-25T03:37:19+07:00</updated>
             <summary>
                 <![CDATA[
                     Debugging adalah proses mengidentifikasi, memahami, dan memperbaiki kesalahan atau bug dalam sebuah program komputer. Ini adalah bagian penting dari proses pengembangan perangkat lunak di mana programmer mencari tahu mengapa program tidak berfungsi seperti yang diharapkan dan memperbaiki masalah tersebut. Proses debugging biasanya melibatkan beberapa langkah,&hellip;
@@ -92,7 +92,7 @@
 </ol>
 <h2>Penutup</h2>
 <p>Itulah beberapa tips memperbaiki bug saat coding.</p>
-<p>Walaupun terlihat agak kompleks, pada dasarnya debugging adalah pekerjaan sains.</p>
+<p>Walaupun terlihat agak rumit, pada dasarnya debugging adalah pekerjaan sains.</p>
 <p>Jika Anda masih ingat metode ilmiah yang dipelajari di Biologi, cara melakukan debugging kira-kira seperti itu.</p>
 <p>Jadi, teruslah berlatih.</p>
 </div>
