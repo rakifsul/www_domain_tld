@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-27T02:08:41+07:00</updated>
+    <updated>2024-02-28T04:13:50+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -93,7 +93,7 @@
         <id>https://www.rakifsul.my.id/tips-memperbaiki-bug-saat-coding.html</id>
             <category term="Awareness Funnel"/>
 
-        <updated>2024-02-25T03:37:19+07:00</updated>
+        <updated>2024-02-28T04:09:42+07:00</updated>
             <summary>
                 <![CDATA[
                     Debugging adalah proses mengidentifikasi, memahami, dan memperbaiki kesalahan atau bug dalam sebuah program komputer. Ini adalah bagian penting dari proses pengembangan perangkat lunak di mana programmer mencari tahu mengapa program tidak berfungsi seperti yang diharapkan dan memperbaiki masalah tersebut. Proses debugging biasanya melibatkan beberapa langkah,&hellip;
@@ -135,7 +135,7 @@
 <p>Berikut adalah beberapa tips yang dapat membantu Anda dalam proses debugging:</p>
 <ol>
 <li>
-<p><strong>Pahami Kode Anda</strong>: Penting untuk memahami struktur dan logika dari kode yang Anda tulis sebelum Anda mulai debugging. Ini akan membantu Anda dalam mengidentifikasi masalah dan mengurangi waktu yang Anda perlukan untuk mencari solusi. Itulah sebabnya, <a href="https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html">Anda harus belajar coding dengan membaca kode dari awal</a>.</p>
+<p><strong>Pahami Kode Anda</strong>: Penting untuk memahami struktur dan logika dari kode yang Anda tulis sebelum Anda mulai debugging. Ini akan membantu Anda dalam mengidentifikasi masalah dan mengurangi waktu yang Anda perlukan untuk mencari solusi. Itulah sebabnya, <a href="https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html">Anda disarankan belajar coding dengan membaca kode dari awal</a>.</p>
 </li>
 <li>
 <p><strong>Gunakan Pernyataan Print</strong>: Salah satu cara paling sederhana namun efektif untuk debugging adalah dengan menambahkan pernyataan print di beberapa titik dalam kode Anda untuk melacak nilai variabel atau jalur eksekusi program. Ini membantu Anda memahami apa yang terjadi di dalam program Anda saat berjalan.</p>
@@ -575,7 +575,7 @@
         <id>https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html</id>
             <category term="Consideration Funnel"/>
 
-        <updated>2024-02-18T03:24:09+07:00</updated>
+        <updated>2024-02-28T04:13:50+07:00</updated>
             <summary>
                 <![CDATA[
                     Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman. Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study. Itu&hellip;
@@ -586,7 +586,7 @@
                 <p>Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman.</p>
 <p>Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study.</p>
 <p>Itu bukan ide yang buruk tentunya, asalkan kita memanfaatkannya dengan tepat.</p>
-<p>Tapi, jika asumsinya, kita menggunakan metode tersebut untuk belajar sebagai pemula, itu bukan pendekatan yang bagus.</p>
+<p>Tapi, jika asumsinya kita menggunakan metode tersebut untuk belajar sebagai pemula, itu merupakan pendekatan yang kurang tepat, menurut saya.</p>
 <p>Kenapa?</p>
 <p>Itu karena alasan-alasan ini.</p>
 <ol>
@@ -623,14 +623,15 @@
 <li>Contoh project data searching</li>
 <li>Dan lain-lain</li>
 </ul>
-<p>Selain itu, perhatikan juga bahwa akan lebih baik jika kita menggunakan contoh project, bukannya ebook atau video.</p>
+<p>Selain itu, perhatikan juga bahwa akan lebih baik jika kita menggunakan contoh project.</p>
 <p>Kenapa?</p>
 <p>Karena dalam bahasa pemrograman ada fitur komentar.</p>
 <p>Di mana kita bisa menjelaskan apa yang dilakukan kode tertentu langsung pada file script-nya.</p>
 <p>Dengan demikian, maka kita tidak akan kehilangan fokus antara kode dan pembahasannya.</p>
-<p>Karena alasan tadilah, saya, di RAKIFSUL menjual contoh project sederhana, walaupun ada juga produk ebook+source code.</p>
+<p>Karena alasan tadilah, saya, di RAKIFSUL menjual contoh project sederhana.</p>
+<p>Tapi jangan salah paham. Walaupun belajar dengan cara membaca kode sangat penting, ada baiknya juga untuk belajar dengan membaca ebook yang disertai contoh kode atau contoh project.</p>
+<p>Oleh karenanya, saya juga menjual produk ebook+source code.</p>
 <p>Tujuannya agar bisa Anda pelajari.</p>
-<p>Dan, karena contohnya sederhana, saya bisa menjualnya dengan harga yang murah.</p>
 <p>Jadi, <a href="https://www.rakifsul.my.id/tags/product-decision-funnel/">ayo beli sekarang juga</a>...</p>
             ]]>
         </content>
