@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-03-05T18:36:25+07:00</updated>
+    <updated>2024-03-05T19:10:03+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -455,7 +455,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 0"/>
             <category term="Produk"/>
 
         <updated>2024-03-05T18:23:55+07:00</updated>
@@ -627,7 +627,7 @@
 <p>Tapi jangan salah paham. Walaupun belajar dengan cara membaca kode sangat penting, ada baiknya juga untuk belajar dengan membaca ebook yang disertai contoh kode atau contoh project.</p>
 <p>Oleh karenanya, saya juga menjual produk ebook+source code.</p>
 <p>Tujuannya agar bisa Anda pelajari.</p>
-<p>Jadi, <a href="https://www.rakifsul.my.id/tags/produk-it-belajar/">ayo beli sekarang juga</a>...</p>
+<p>Jadi, <a href="https://www.rakifsul.my.id/tags/produk-it-belajar-lv-0/">ayo beli sekarang juga</a>...</p>
             ]]>
         </content>
     </entry>
@@ -638,7 +638,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 0"/>
             <category term="Produk"/>
 
         <updated>2024-03-05T18:24:21+07:00</updated>
@@ -744,7 +744,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 0"/>
             <category term="Produk"/>
 
         <updated>2024-03-05T18:24:32+07:00</updated>
@@ -794,10 +794,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 1"/>
             <category term="Produk"/>
 
-        <updated>2024-03-05T18:24:41+07:00</updated>
+        <updated>2024-03-05T19:08:17+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Apa Itu Simple Turret Aim? Simple turret aim adalah sistem penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple&hellip;
@@ -836,10 +836,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 1"/>
             <category term="Produk"/>
 
-        <updated>2024-03-05T18:25:19+07:00</updated>
+        <updated>2024-03-05T19:08:40+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game. Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur ini:&hellip;
@@ -877,10 +877,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 1"/>
             <category term="Produk"/>
 
-        <updated>2024-03-05T18:25:30+07:00</updated>
+        <updated>2024-03-05T19:08:59+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Nav Mesh Agent adalah karakter game yang dapat berjalan mengikuti path dari hasil path finding di atas Navigation Mesh. Karya ini adalah contoh project nav mesh agent sederhana dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya&hellip;
@@ -918,10 +918,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html"/>
         <id>https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 2"/>
             <category term="Produk"/>
 
-        <updated>2024-03-05T18:25:41+07:00</updated>
+        <updated>2024-03-05T19:09:33+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Aplikasi image gallery adalah aplikasi yang berfungsi untuk menyimpan dan menampilkan file gambar. Karya ini adalah contoh project aplikasi image gallery yang dibuat dengan Node.js dan Mongoose. Sebagai contoh kode, source code aplikasi image gallery ini bisa menjadi contoh untuk: BACA README-nya terlebih&hellip;
@@ -965,10 +965,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html"/>
         <id>https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 2"/>
             <category term="Produk"/>
 
-        <updated>2024-03-05T18:25:59+07:00</updated>
+        <updated>2024-03-05T19:09:46+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Password generator adalah aplikasi yang digunakan untuk membuat password. Karya ini adalah contoh project aplikasi password generator yang dibuat dengan Python 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya terlebih dahulu sebelum mencoba, jika ada. Dapatkan
@@ -1013,10 +1013,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html"/>
         <id>https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html</id>
-            <category term="Produk IT Belajar"/>
+            <category term="Produk IT Belajar Lv 1"/>
             <category term="Produk"/>
 
-        <updated>2024-03-05T18:26:10+07:00</updated>
+        <updated>2024-03-05T19:10:03+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang "studi kasus membuat aplikasi video player dengan Electron js". Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada. Dapatkan
