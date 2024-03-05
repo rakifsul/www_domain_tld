@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-02-29T19:57:32+07:00</updated>
+    <updated>2024-03-05T18:36:25+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/blender-3d-model-low-poly-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/blender-3d-model-low-poly-koleksi-1.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Asset"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-29T19:57:32+07:00</updated>
+        <updated>2024-03-05T18:23:41+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Blender adalah aplikasi 3D Modelling yang gratis dan open source. Di karya ini, saya menjual beberapa 3D model yang dibuat dengan Blender. Karya ini adalah kumpulan 3D model low poly yang dibuat dengan Blender. Isinya terdiri dari 10 3D model yang dikumpulkan. Berikut&hellip;
@@ -76,9 +77,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/tips-memperbaiki-bug-saat-coding.html"/>
         <id>https://www.rakifsul.my.id/tips-memperbaiki-bug-saat-coding.html</id>
+            <category term="Awareness IT"/>
             <category term="Awareness"/>
 
-        <updated>2024-02-28T04:09:42+07:00</updated>
+        <updated>2024-03-05T18:26:49+07:00</updated>
             <summary>
                 <![CDATA[
                     Debugging adalah proses mengidentifikasi, memahami, dan memperbaiki kesalahan atau bug dalam sebuah program komputer. Ini adalah bagian penting dari proses pengembangan perangkat lunak di mana programmer mencari tahu mengapa program tidak berfungsi seperti yang diharapkan dan memperbaiki masalah tersebut. Proses debugging biasanya melibatkan beberapa langkah,&hellip;
@@ -177,9 +179,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/tips-memecahkan-masalah-coding.html"/>
         <id>https://www.rakifsul.my.id/tips-memecahkan-masalah-coding.html</id>
+            <category term="Awareness IT"/>
             <category term="Awareness"/>
 
-        <updated>2024-02-25T02:54:51+07:00</updated>
+        <updated>2024-03-05T18:26:58+07:00</updated>
             <summary>
                 <![CDATA[
                     Coding dan pemecahan masalah sangat erat hubungannya karena coding pada dasarnya adalah proses pemecahan masalah yang diimplementasikan dalam bentuk instruksi untuk komputer. Sebelum Anda mulai menulis kode, misalnya, Anda harus memahami masalah yang ingin Anda pecahkan. Ini melibatkan pemahaman mendalam tentang masalah tersebut, serta bagaimana&hellip;
@@ -261,9 +264,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/jadikan-internet-dan-pengalaman-sebagai-mentor-codingmu.html"/>
         <id>https://www.rakifsul.my.id/jadikan-internet-dan-pengalaman-sebagai-mentor-codingmu.html</id>
+            <category term="Awareness IT"/>
             <category term="Awareness"/>
 
-        <updated>2024-02-19T07:22:15+07:00</updated>
+        <updated>2024-03-05T18:27:06+07:00</updated>
             <summary>
                 <![CDATA[
                     Apa yang Dimaksud dengan Mentor Coding? Mentor coding adalah seseorang yang memiliki pengalaman dan keahlian dalam pemrograman komputer dan bertugas untuk memberikan bimbingan, dukungan, dan pengetahuan kepada orang lain yang ingin belajar atau mengembangkan keterampilan dalam bidang pemrograman. Peran seorang mentor coding meliputi: Memberikan Bimbingan:&hellip;
@@ -337,9 +341,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/cara-saya-mengatasi-bosan-coding.html"/>
         <id>https://www.rakifsul.my.id/cara-saya-mengatasi-bosan-coding.html</id>
+            <category term="Awareness IT"/>
             <category term="Awareness"/>
 
-        <updated>2024-02-19T06:40:59+07:00</updated>
+        <updated>2024-03-05T18:27:14+07:00</updated>
             <summary>
                 <![CDATA[
                     Apa Itu Bosan Coding? Yang dimaksud dengan bosan coding adalah perasaan bosan atau kejenuhan yang dialami oleh seseorang terhadap aktivitas pemrograman atau menulis kode komputer. Bosan coding bisa terjadi karena berbagai alasan, termasuk: Monotonitas: Melakukan tugas yang sama berulang kali atau bekerja pada proyek yang&hellip;
@@ -450,9 +455,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-18T07:06:34+07:00</updated>
+        <updated>2024-03-05T18:23:55+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Python 3 adalah bahasa pemrograman yang banyak kegunaannya. Salah satu ciri dari Python 3 adalah penggunaan indentation dalam penulisan script-nya. Karya ini adalah contoh project Python 3 dasar koleksi 1. Isinya terdiri dari beberapa project Python 3 sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;
@@ -500,9 +506,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html"/>
         <id>https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html</id>
+            <category term="Awareness IT"/>
             <category term="Awareness"/>
 
-        <updated>2024-02-18T03:12:09+07:00</updated>
+        <updated>2024-03-05T18:27:23+07:00</updated>
             <summary>
                 <![CDATA[
                     Memilih bahasa pemrograman adalah langkah penting dalam pengembangan perangkat lunak atau aplikasi. Setiap bahasa pemrograman memiliki keunggulan dan kelemahan yang berbeda. Pemilihan bahasa pemrograman harus disesuaikan dengan tujuan proyek yang akan dilakukan. Misalnya, jika Anda mengembangkan aplikasi web, Anda mungkin akan memilih JavaScript; jika Anda&hellip;
@@ -558,9 +565,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html"/>
         <id>https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html</id>
+            <category term="Consideration IT"/>
             <category term="Consideration"/>
 
-        <updated>2024-02-28T04:13:50+07:00</updated>
+        <updated>2024-03-05T18:35:12+07:00</updated>
             <summary>
                 <![CDATA[
                     Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman. Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study. Itu&hellip;
@@ -608,6 +616,8 @@
 <li>Contoh project data searching</li>
 <li>Dan lain-lain</li>
 </ul>
+<p>Menggunakan contoh kode yang kompleks untuk belajar sebenarnya masih bisa dilakukan, tapi untuk level di atas pemula.</p>
+<p>Itu karena, jika kita berada di atas level pemula, kemungkinan kita telah memahami alur kerja dari sebuah project.</p>
 <p>Selain itu, perhatikan juga bahwa akan lebih baik jika kita menggunakan contoh project.</p>
 <p>Kenapa?</p>
 <p>Karena dalam bahasa pemrograman ada fitur komentar.</p>
@@ -617,7 +627,7 @@
 <p>Tapi jangan salah paham. Walaupun belajar dengan cara membaca kode sangat penting, ada baiknya juga untuk belajar dengan membaca ebook yang disertai contoh kode atau contoh project.</p>
 <p>Oleh karenanya, saya juga menjual produk ebook+source code.</p>
 <p>Tujuannya agar bisa Anda pelajari.</p>
-<p>Jadi, <a href="https://www.rakifsul.my.id/tags/products/">ayo beli sekarang juga</a>...</p>
+<p>Jadi, <a href="https://www.rakifsul.my.id/tags/produk-it-belajar/">ayo beli sekarang juga</a>...</p>
             ]]>
         </content>
     </entry>
@@ -628,9 +638,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-13T02:39:48+07:00</updated>
+        <updated>2024-03-05T18:24:21+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Electron adalah framework untuk membuat aplikasi desktop dengan HTML, CSS, dan JavaScript. Pada karya ini, saya membuat beberapa contoh penggunaannya secara sederhana. Karya ini adalah contoh project Electron dasar koleksi 1. Isinya terdiri dari beberapa project Electron sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;
@@ -677,9 +688,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html"/>
         <id>https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html</id>
+            <category term="Consideration IT"/>
             <category term="Consideration"/>
 
-        <updated>2024-02-18T03:15:47+07:00</updated>
+        <updated>2024-03-05T18:36:25+07:00</updated>
             <summary>
                 <![CDATA[
                     Membaca kode untuk memahami sebuah program mungkin umum dilakukan, bahkan sebagai programmer pemula sekalipun. Namun aktifitas ini mungkin tersamarkan dengan video tutorial dan ebook yang kita baca. Kita menyangka bahwa kita telah belajar dari video ataupun ebook, walaupun ujungnya, kita harus memahami kode yang diberikan&hellip;
@@ -719,8 +731,8 @@
 <p>Konsekuensinya, kita harus mampu memahami masalah tersebut dan mendapatkan jawabannya dari kode yang kita baca.</p>
 <p>Dengan membiasakan diri memahami program dengan membaca kode sejak awal, maka diharapkan kita bisa terbiasa melakukannya sejak dini.</p>
 <p>Dengan alasan-alasan tadi, menurut saya belajar coding sambil membaca kode merupakan skill yang sangat berharga.</p>
-<p>Selain itu, perlu diperhatikan juga bahwa, tidak semua contoh kode bisa digunakan untuk belajar coding.</p>
-<p>Contoh kode yang cukup baik untuk belajar coding adalah contoh kode yang cukup sederhana, namun merupakan bagian dari aplikasi yang lebih besar. <a href="https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html">Ini alasannya</a>.</p>
+<p>Selain itu, perlu diperhatikan juga bahwa, tidak semua contoh kode bisa digunakan untuk belajar coding untuk pemula.</p>
+<p>Contoh kode yang cukup baik untuk belajar coding bagi pemula adalah contoh kode yang cukup sederhana, namun merupakan bagian dari aplikasi yang lebih besar. <a href="https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html">Ini alasannya</a>.</p>
 <p>Dengan memilih contoh kode semacam itu, kita bisa memahami bagian kecil dari aplikasi yang lebih besar tanpa khawatir akan kehilangan fokus.</p>
             ]]>
         </content>
@@ -732,9 +744,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html"/>
         <id>https://www.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-12T19:57:44+07:00</updated>
+        <updated>2024-03-05T18:24:32+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Node.js adalah runtime environment yang bisa digunakan untuk membuat beragam aplikasi. Di karya ini, saya memberikan beberapa contoh penggunaannya. Karya ini adalah contoh project Node.js dasar koleksi 1. Isinya terdiri dari beberapa project Node.js sederhana yang dikumpulkan. Sebagai contoh kode, karya ini bisa&hellip;
@@ -781,9 +794,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-simple-turret-aim.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-11T03:09:08+07:00</updated>
+        <updated>2024-03-05T18:24:41+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Apa Itu Simple Turret Aim? Simple turret aim adalah sistem penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple&hellip;
@@ -822,9 +836,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-predictive-turret-aim.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-11T03:49:27+07:00</updated>
+        <updated>2024-03-05T18:25:19+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game. Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur ini:&hellip;
@@ -862,9 +877,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html"/>
         <id>https://www.rakifsul.my.id/godot-engine-3-nav-mesh-agent-sederhana.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-11T03:50:09+07:00</updated>
+        <updated>2024-03-05T18:25:30+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Nav Mesh Agent adalah karakter game yang dapat berjalan mengikuti path dari hasil path finding di atas Navigation Mesh. Karya ini adalah contoh project nav mesh agent sederhana dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya&hellip;
@@ -902,9 +918,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html"/>
         <id>https://www.rakifsul.my.id/nodejs-aplikasi-image-gallery-mongoose.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-11T03:51:04+07:00</updated>
+        <updated>2024-03-05T18:25:41+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Aplikasi image gallery adalah aplikasi yang berfungsi untuk menyimpan dan menampilkan file gambar. Karya ini adalah contoh project aplikasi image gallery yang dibuat dengan Node.js dan Mongoose. Sebagai contoh kode, source code aplikasi image gallery ini bisa menjadi contoh untuk: BACA README-nya terlebih&hellip;
@@ -948,9 +965,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html"/>
         <id>https://www.rakifsul.my.id/python-3-aplikasi-password-generator.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-11T03:51:40+07:00</updated>
+        <updated>2024-03-05T18:25:59+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Password generator adalah aplikasi yang digunakan untuk membuat password. Karya ini adalah contoh project aplikasi password generator yang dibuat dengan Python 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya terlebih dahulu sebelum mencoba, jika ada. Dapatkan
@@ -995,9 +1013,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html"/>
         <id>https://www.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html</id>
-            <category term="Products"/>
+            <category term="Produk IT Belajar"/>
+            <category term="Produk"/>
 
-        <updated>2024-02-11T03:52:13+07:00</updated>
+        <updated>2024-03-05T18:26:10+07:00</updated>
             <summary>
                 <![CDATA[
                     A. Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang "studi kasus membuat aplikasi video player dengan Electron js". Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada. Dapatkan
@@ -1026,837 +1045,6 @@
 </ul>
 <hr>
 <p class="align-center"><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/studi-kasus-electron-membuat-aplikasi-video-player" target="_blank" rel="nofollow noopener noreferrer">Dapatkan</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Galeri Model 3D</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/galeri-model-3d.html"/>
-        <id>https://www.rakifsul.my.id/galeri-model-3d.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:48:45+07:00</updated>
-            <summary>
-                <![CDATA[
-                    gunakan saya
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Car-0.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Car-0-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Car002.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Car002-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Car003.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Car003-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Car004.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Car004-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Island-0.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Island-0-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Robot-0.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Robot-0-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Tank-0.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Tank-0-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Tank-1.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Tank-1-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Tree-0.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Tree-0-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Tree-1.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Tree-1-thumbnail.png" alt="" width="768" height="416"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/35/gallery/Turret-0.png" data-size="800x433"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/35/gallery/Turret-0-thumbnail.png" alt="" width="768" height="416"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Galeri Desain Web</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/galeri-desain-web.html"/>
-        <id>https://www.rakifsul.my.id/galeri-desain-web.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:48:33+07:00</updated>
-            <summary>
-                <![CDATA[
-                    gunakan saya
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/34/gallery/ss-2-md-1.png" data-size="768x1736"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/34/gallery/ss-2-md-1-thumbnail.png" alt="" width="768" height="1736"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/34/gallery/ss-2-md.png" data-size="768x393"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/34/gallery/ss-2-md-thumbnail.png" alt="" width="768" height="393"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/34/gallery/ss-md-1.png" data-size="768x1679"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/34/gallery/ss-md-1-thumbnail.png" alt="" width="768" height="1679"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/34/gallery/ss-md-2.png" data-size="600x1138"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/34/gallery/ss-md-2-thumbnail.png" alt="" width="600" height="1138"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/34/gallery/ss-md.png" data-size="600x1013"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/34/gallery/ss-md-thumbnail.png" alt="" width="600" height="1013"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Web Node.js React js Todo List</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-react-js-todo-list.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:48:19+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js. Todo adalah aplikasi yang berguna untuk mengatur daftar. Aplikasi ini adalah aplikasi todo list. Aplikasi ini bisa menyelesaikan masalah pencatatan todo. Misalnya, create, read,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi todo list yang dibuat menggunakan Node.js dan React js.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Todo adalah aplikasi yang berguna untuk mengatur daftar.</p>
-<p>Aplikasi ini adalah aplikasi todo list.</p>
-<p>Aplikasi ini bisa menyelesaikan masalah pencatatan todo.</p>
-<p>Misalnya, create, read, update, dan delete todo dari list.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utama aplikasi ini adalah:</p>
-<ul>
-<li>Bisa membuat todo</li>
-<li>Bisa menghapus todo</li>
-<li>Register</li>
-<li>Login</li>
-<li>Dashboard</li>
-<li>Search todo</li>
-<li>Bisa menggunakan MongoDB dan MySQL</li>
-</ul>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan React js.</p>
-<h2>Antarmuka</h2>
-<p>Screencast aplikasi ini:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/1TLprVxCQBU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot aplikasi ini:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_AymZNGchFR-thumbnail.png" alt="" width="768" height="413"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_Hw4GW1VxtY.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_Hw4GW1VxtY-thumbnail.png" alt="" width="768" height="413"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_ilbjLnPPLw.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_ilbjLnPPLw-thumbnail.png" alt="" width="768" height="413"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/32/gallery/brave_nqhibH7JyC.png" data-size="1024x550"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/32/gallery/brave_nqhibH7JyC-thumbnail.png" alt="" width="768" height="413"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Web Node.js Company Profile</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-company-profile.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-company-profile.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:47:59+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi company profile dinamis yang dibuat menggunakan Node.js. Di zaman sekarang, sudah lazim bahwa sebuah perusahaan memiliki web company profile. Tujuannya adalah agar perusahaan tersebut bisa dicari di search engine. Aplikasi ini bisa menyelesaikan&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi company profile dinamis yang dibuat menggunakan Node.js.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Di zaman sekarang, sudah lazim bahwa sebuah perusahaan memiliki web company profile.</p>
-<p>Tujuannya adalah agar perusahaan tersebut bisa dicari di search engine.</p>
-<p>Aplikasi ini bisa menyelesaikan masalah website company profile.</p>
-<p>Kenapa?</p>
-<p>Karena tampilan depan aplikasi ini merupakan website company profile.</p>
-<p>Website ini tidak statis, karena elemen-elemennya bisa disetting di admin area dari aplikasi ini.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utama aplikasi ini adalah:</p>
-<ul>
-<li>Bisa membuat company profile yang dinamis</li>
-<li>Register</li>
-<li>Login</li>
-<li>Dashboard</li>
-<li>Mengubah teks dan gambar tampilan publik</li>
-</ul>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
-<h2>Antarmuka</h2>
-<p>Screencast aplikasi ini:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/k-Y_7YxD-fw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot aplikasi ini:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/29/gallery/screencapture-localhost-3000-admin-2023-12-11-23_28_09.png" data-size="1024x497"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/29/gallery/screencapture-localhost-3000-admin-2023-12-11-23_28_09-thumbnail.png" alt="" width="768" height="373"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/29/gallery/screenshot-0.png" data-size="661x1024"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/29/gallery/screenshot-0-thumbnail.png" alt="" width="661" height="1024"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Web Node.js Paste Sharing</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-paste-sharing.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-paste-sharing.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:47:43+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi berbagi paste yang dibuat menggunakan Node.js. Saat menggunakan sosial media, mungkin saja Anda ingin membagikan teks tertentu. Tapi, walaupun tergantung jenis sosial medianya, terkadang fitur postingannya tidak bisa diformat dengan format teks tertentu.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi berbagi paste yang dibuat menggunakan Node.js.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Saat menggunakan sosial media, mungkin saja Anda ingin membagikan teks tertentu.</p>
-<p>Tapi, walaupun tergantung jenis sosial medianya, terkadang fitur postingannya tidak bisa diformat dengan format teks tertentu.</p>
-<p>Aplikasi ini bisa menyelesaikan masalah pembagian teks yang di-paste-kan semacam itu.</p>
-<p>Kenapa?</p>
-<p>Karena dengan aplikasi ini, user bisa membuat teks berformat markdown sehingga tampilannya lebih menarik.</p>
-<p>Jadi, saat Anda ingin membagikan teks cukup buat di aplikasi ini, kemudian bagikan link nya di sosial media tersebut.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utama aplikasi ini adalah:</p>
-<ul>
-<li>Bisa membuat paste dengan format markdown</li>
-<li>Register</li>
-<li>Login</li>
-<li>Dashboard</li>
-<li>Manajemen paste</li>
-<li>User secret paste link</li>
-</ul>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
-<h2>Antarmuka</h2>
-<p>Screencast aplikasi ini:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/k6VRDWHNltQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot aplikasi ini:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR1.png" data-size="786x425"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR1-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR2.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR2-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR3.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR3-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR4.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR4-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR5.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR5-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR6.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR6-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR7.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/28/gallery/NDPSTSHR7-thumbnail.png" alt="" width="768" height="415"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Web Node.js Blog CMS</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-web-nodejs-blog-cms.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-web-nodejs-blog-cms.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:47:31+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi blog CMS yang dibuat menggunakan Node.js. Blogging adalah kegiatan yang menyenangkan bagi orang-orang tertentu. Agar melakukan blogging lebih mudah, maka CMS digunakan. Aplikasi ini adalah CMS Blog. Karena aplikasi ini adalah CMS blog,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi blog CMS yang dibuat menggunakan Node.js.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Blogging adalah kegiatan yang menyenangkan bagi orang-orang tertentu.</p>
-<p>Agar melakukan blogging lebih mudah, maka CMS digunakan.</p>
-<p>Aplikasi ini adalah CMS Blog.</p>
-<p>Karena aplikasi ini adalah CMS blog, maka mungkin saja blogging lebih mudah dengan menggunakan aplikasi ini.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utama aplikasi ini adalah:</p>
-<ul>
-<li>Bisa membuat blog</li>
-<li>Register</li>
-<li>Login</li>
-<li>Dashboard</li>
-<li>Tambah postingan</li>
-<li>Tambah tag</li>
-<li>Menu navigasi</li>
-</ul>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat menggunakan Node.js dengan tampilan menggunakan Bootstrap.</p>
-<h2>Antarmuka</h2>
-<p>Screencast aplikasi ini:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GmiellWDnAQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot aplikasi ini:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS1.png" data-size="786x425"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS1-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS2.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS2-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS3.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS3-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS4.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS4-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS5.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS5-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS6.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS6-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS7.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS7-thumbnail.png" alt="" width="768" height="415"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS8.png" data-size="1026x555"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/27/gallery/NDBLGCMS8-thumbnail.png" alt="" width="768" height="415"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop YouTube Browser dan Downloader</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-youtube-browser-dan-downloader.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:47:11+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi browser YouTube sekaligus downloader-nya. YouTube adalah sebuah social media yang berisi video. Video adalah salah satu jenis konten yang sering sering diakses orang akhir-akhir ini. Namun, untuk menonton video YouTube secara offline perlu&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi browser YouTube sekaligus downloader-nya.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>YouTube adalah sebuah social media yang berisi video.</p>
-<p>Video adalah salah satu jenis konten yang sering sering diakses orang akhir-akhir ini.</p>
-<p>Namun, untuk menonton video YouTube secara offline perlu sedikit trik.</p>
-<p>Normalnya, orang menggunakan aplikasi seperti youtube-dl atau yt-dlp untuk men-download video YouTube.</p>
-<p>Sayangnya, bagi yang tidak bisa menggunakan command line, itu akan sedikit merepotkan.</p>
-<p>Dengan aplikasi ini, download video YouTube bisa dilakukan dengan GUI, bahkan sambil browsing.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utama aplikasi ini adalah:</p>
-<ul>
-<li>Bisa browsing website YouTube</li>
-<li>Bisa download video</li>
-<li>Bisa download playlist</li>
-<li>Browsing sambil mengumpulkan link video</li>
-<li>Download dengan GUI</li>
-</ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya, karena Anda juga bisa browsing di YouTube.</p>
-<p>Jadi, sambil "jalan-jalan" di YouTube, Anda bisa mengumpulkan link video atau playlist yang menarik kemudian men-download-nya nanti.</p>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat menggunakan Electron js dengan Bootstrap CSS.</p>
-<h2>Antarmuka</h2>
-<p>Berikut ini adalah screencast-nya:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/84FxM_u41pA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot-nya:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/24/gallery/electron_RjRxeRPW2c.png" data-size="1010x761"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/24/gallery/electron_RjRxeRPW2c-thumbnail.png" alt="" width="768" height="579"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/24/gallery/electron_WaexUUNAoR.png" data-size="1010x761"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/24/gallery/electron_WaexUUNAoR-thumbnail.png" alt="" width="768" height="579"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Video Player</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-video-player.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-video-player.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:46:56+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi video player yang bisa memainkan beberapa format video. Video adalah salah satu jenis konten yang sering dikonsumsi akhir-akhir ini. Dengan video konsumsi konten menjadi lebih menarik karena alurnya yang mengalir. Walaupun menarik, video&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi video player yang bisa memainkan beberapa format video.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Video adalah salah satu jenis konten yang sering dikonsumsi akhir-akhir ini.</p>
-<p>Dengan video konsumsi konten menjadi lebih menarik karena alurnya yang mengalir.</p>
-<p>Walaupun menarik, video tidak bisa dibuka dengan semua jenis aplikasi jika ingin ditonton.</p>
-<p>Ada aplikasi untuk itu, yang disebut video player.</p>
-<p>Dengan video player kita bisa menonton isi dari file berformat video yang di-support.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utama aplikasi ini adalah:</p>
-<ul>
-<li>Bisa membuka file video</li>
-<li>Bisa memainkan video</li>
-<li>Tampilan yang bagus</li>
-<li>Bisa fullscreen</li>
-</ul>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat menggunakan Electron js dengan Metro UI.</p>
-<h2>Antarmuka</h2>
-<p>Berikut ini adalah screencast aplikasi ini:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Ezvyc1I1Nxc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot aplikasi ini:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/23/gallery/electron_LUdprCor8N.png" data-size="786x558"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/23/gallery/electron_LUdprCor8N-thumbnail.png" alt="image" width="768" height="545"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/23/gallery/electron_1KEYAW2MnW.png" data-size="786x558"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/23/gallery/electron_1KEYAW2MnW-thumbnail.png" alt="image" width="768" height="545"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Shutdown Otomatis</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-shutdown-otomatis.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-shutdown-otomatis.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:46:41+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini bisa men-shutdown komputer Anda secara otomatis. Aplikasi ini berguna saat Anda bekerja dengan komputer Anda tapi khawatir membiarkan komputer Anda tetap menyala saat Anda ketiduran. Aplikasi ini tidak berjalan secara otomatis saat komputer booting untuk&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini bisa men-shutdown komputer Anda secara otomatis.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Aplikasi ini berguna saat Anda bekerja dengan komputer Anda tapi khawatir membiarkan komputer Anda tetap menyala saat Anda ketiduran.</p>
-<p>Aplikasi ini <strong>tidak </strong>berjalan secara otomatis saat komputer booting untuk mencegah komputer Anda mati sendiri secara terus menerus.</p>
-<p>Jadi, Anda harus menjalankannya secara manual saat Anda ingin menggunakannya.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur:</p>
-<ul>
-<li>Bisa men-shutdown setelah beberapa waktu idle</li>
-<li>Bisa diaktifkan dan dinonaktifkan sensor shutdown-nya</li>
-<li>Dan lain-lain</li>
-</ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Keunggulan aplikasi ini adalah karena masih jarang yang serupa fungsinya.</p>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
-<h2>Antarmuka</h2>
-<p>Screencast:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/mrQ47zN8mRk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Screenshot:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/17/screenshot-1.png" alt="image" width="313" height="358" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-xs.png 300w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-sm.png 480w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-md.png 768w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/17/responsive/screenshot-1-2xl.png 1600w"></figure>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Game Turret</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-game-turret.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-game-turret.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:46:27+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Ini adalah game turret. Jika Anda tidak tahu apa itu turret, itu adalah benda berwarna abu-abu merah yang ada di screenshot di bawah. Game ini bertujuan untuk survive menghadapi lawan berupa robot yang di-spawn secara random dari&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Ini adalah game turret.</p>
-<h2>Deskripsi Singkat</h2>
-<p>Jika Anda tidak tahu apa itu turret, itu adalah benda berwarna abu-abu merah yang ada di screenshot di bawah.</p>
-<p>Game ini bertujuan untuk survive menghadapi lawan berupa robot yang di-spawn secara random dari segala arah.</p>
-<p>Sebagai pemain, Anda harus menembaki robot-robot tersebut.</p>
-<p>Tidak ada batasan jumlah robotnya, jadi ini adalah game survival.</p>
-<p>Game ini dibuat dengan menggunakan Godot Engine.</p>
-<h2>Antarmuka</h2>
-<p>Screencast:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/hNCTazbfY6g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Screenshot:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/16/gallery/screenshot-2.png" data-size="512x314"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/16/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="314"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/16/gallery/screenshot-3.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/16/gallery/screenshot-3-thumbnail.png" alt="image" width="512" height="315"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Suara Keyboard</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-suara-keyboard.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-suara-keyboard.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:46:15+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi desktop yang bisa membunyikan file audio saat keboard ditekan atau sedang mengetik. Kenapa harus menggunakan aplikasi ini? Sebenarnya, saya membuat aplikasi ini karena pernah melihat sebuah channel YouTube yang menjadikan bunyi keyboard mekanikal&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi desktop yang bisa membunyikan file audio saat keboard ditekan atau sedang mengetik.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Kenapa harus menggunakan aplikasi ini?</p>
-<p>Sebenarnya, saya membuat aplikasi ini karena pernah melihat sebuah channel YouTube yang menjadikan bunyi keyboard mekanikal sebagai video ASMR.</p>
-<p>Nah, dengan aplikasi ini, Anda bisa membuat video semacam itu walaupun hanya menggunakan keyboard biasa.</p>
-<p>Selain itu, file audio-nya secara teoritis bisa apa saja, tidak harus audio keyboard mekanikal.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur:</p>
-<ul>
-<li>Membunyikan suara saat mengetik</li>
-<li>Bisa menggunakan lebih dari satu file audio</li>
-<li>Bisa dirandomisasi atau berurutan</li>
-<li>Dan lain-lain</li>
-</ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih baik dari alternatifnya, karena memang tidak ada aplikasi lain yang seperti ini.</p>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
-<h2>Antarmuka</h2>
-<p>Screencast:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nZ0dg7lpLp0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Screenshot:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/15/screenshot-1.png" alt="image" width="512" height="288" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-xs.png 300w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-sm.png 480w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-md.png 768w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/15/responsive/screenshot-1-2xl.png 1600w"></figure>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Pembuat Password</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-pembuat-password.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-pembuat-password.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:46:02+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi desktop yang bisa digunakan untuk membuat password. Aplikasi ini berguna saat Anda membuat sebuah akun di web, yang memerlukan password yang kuat, tapi tanpa harus memikirkannya sendiri. Fitur: Aplikasi ini dibuat dengan menggunakan&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi desktop yang bisa digunakan untuk membuat password.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Aplikasi ini berguna saat Anda membuat sebuah akun di web, yang memerlukan password yang kuat, tapi tanpa harus memikirkannya sendiri.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur:</p>
-<ul>
-<li>Membuat password</li>
-<li>Kombinasi huruf kecil</li>
-<li>Kombinasi huruf besar</li>
-<li>Kombinasi angka</li>
-<li>Kombinasi simbol</li>
-<li>Bisa dibuat unik, jika memungkinkan</li>
-<li>Bisa kopi ke clipboard</li>
-</ul>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat dengan menggunakan Python3 dan wxPython.</p>
-<h2>Antarmuka</h2>
-<p>Screencast:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/co4kthTT11Q" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Screenshot:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rakifsul.my.id/media/posts/14/screenshot-1.png" alt="image" width="512" height="288" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-xs.png 300w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-sm.png 480w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-md.png 768w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-lg.png 1024w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-xl.png 1360w ,https://www.rakifsul.my.id/media/posts/14/responsive/screenshot-1-2xl.png 1600w"></figure>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Web Browser Otomatis</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-web-browser-otomatis.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-web-browser-otomatis.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:45:47+07:00</updated>
-            <summary>
-                <![CDATA[
-                    PERINGATAN: Produk ini sementara tidak dijual karena ditemukan bug yang belum bisa diperbaiki. Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi web browser yang bisa dijalankan secara otomatis dengan coding. Kenapa harus coding? Begitu banyak website yang memiliki data-data berharga. Jika&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>PERINGATAN: Produk ini sementara tidak dijual karena ditemukan bug yang belum bisa diperbaiki.</p>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi web browser yang bisa dijalankan secara otomatis dengan coding.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Kenapa harus coding?</p>
-<p>Begitu banyak website yang memiliki data-data berharga.</p>
-<p>Jika data-data tersebut dikumpulkan, boleh jadi itu sangat bermanfaat bagi kita.</p>
-<p>Tugas aplikasi ini salah satunya adalah untuk mengumpulkan data-data tadi secara terprogram.</p>
-<p>Karena, jika dilakukan secara manual, tentunya akan merepotkan.</p>
-<p>Untuk memprogram aplikasi ini, saya telah menyediakan panel coding di aplikasi ini.</p>
-<p>Cara kerjanya seperti platform web automation pada umumnya, seperti selenium atau puppeteer.</p>
-<p>Bedanya, saya meng-embed coding panelnya dalam browser.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utama aplikasi ini adalah:</p>
-<ul>
-<li>Bisa browsing biasa</li>
-<li>Bisa browsing otomatis</li>
-<li>Beberapa contoh kode otomatisasi</li>
-<li>Dan lain-lain</li>
-</ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih unggul dibandingkan alternatif lainnya seperti Puppeteer dan Selenium.</p>
-<p>Salah satu nilai tambahnya adalah bahwa kita bisa menggunakan aplikasi ini tanpa web browser tambahan.</p>
-<p>Selain itu, aplikasi ini juga bisa digunakan sebagai web browser biasa.</p>
-<p>Fitur coding dalam browsing juga sudah terintegrasi dalam aplikasi ini.</p>
-<p>Dilengkapi juga dengan devtools.</p>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat menggunakan Electron js dengan webview tag.</p>
-<p>Electron js itu sendiri menurut saya sangat bagus untuk membuat aplikasi bot atau web automation karena pada dasarnya Electron js adalah sebuah web browser yang bisa dijadikan aplikasi custom yang standalone.</p>
-<h2>Antarmuka</h2>
-<p>Berikut ini adalah screencast aplikasi ini:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/munUHQC1FUY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot aplikasi ini:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-1.png" data-size="512x385"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="385"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-2.png" data-size="512x385"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="385"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-3.png" data-size="512x385"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/13/gallery/screenshot-3-thumbnail.png" alt="image" width="512" height="385"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Game Tank</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-game-tank.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-game-tank.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:45:36+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Game ini adalah game shooting tank sederhana. Pemain game ini bertugas untuk menembaki tank musuh yang cuma ada 2. Tank pemain ditempatkan pada sebuah level yang menyerupai maze. Di sana hanya ada 1 tank pemain dan 2&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Game ini adalah game shooting tank sederhana.</p>
-<h2>Deksripsi Singkat</h2>
-<p>Pemain game ini bertugas untuk menembaki tank musuh yang cuma ada 2.</p>
-<p>Tank pemain ditempatkan pada sebuah level yang menyerupai maze.</p>
-<p>Di sana hanya ada 1 tank pemain dan 2 tank lawan.</p>
-<p>Kedua tank lawan harus dikalahkan dengan menembaknya.</p>
-<p>Game ini dimainkan dengan menggunakan keyboard.</p>
-<p>Game ini sudah dilengkapi dengan AI lawan, sehingga lawan bisa bergerak sendiri.</p>
-<p>Game ini dibuat dengan Godot Engine.</p>
-<h2>Antarmuka</h2>
-<p>Screencast:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qXbuibYRMjs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Screenshot:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/12/gallery/screenshot-2.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/12/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="315"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/12/gallery/screenshot-3.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/12/gallery/screenshot-3-thumbnail.png" alt="image" width="512" height="315"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Game Off-Road</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-game-off-road.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-game-off-road.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:45:22+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Game ini adalah game off-road sederhana dengan tema low-poly. Pemain game ini bertugas untuk menyelesaikan tiap-tiap level yang diberikan. Saat baru dimainkan, pemain harus memilih mobil dan level yang diinginkan. Selanjutnya, mobil ditempatkan ke dalam level yang&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Game ini adalah game off-road sederhana dengan tema low-poly.</p>
-<h2>Deskripsi Singkat</h2>
-<p>Pemain game ini bertugas untuk menyelesaikan tiap-tiap level yang diberikan.</p>
-<p>Saat baru dimainkan, pemain harus memilih mobil dan level yang diinginkan.</p>
-<p>Selanjutnya, mobil ditempatkan ke dalam level yang memiliki tantangan medannya masing-masing.</p>
-<p>Walaupun tanpa lawan, medan di level game ini cukup menantang.</p>
-<p>Dengan sistem kontrol mobil manual yang realistis, membuat game ini lebih menantang lagi, walaupun temanya adalah low poly.</p>
-<p>Game ini dibuat menggunakan Godot Engine.</p>
-<h2>Antarmuka</h2>
-<p>Screencast:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/FJgIGmF4Xr4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Screenshot:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-1.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="315"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-2.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="315"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-3.png" data-size="512x315"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/11/gallery/screenshot-3-thumbnail.png" alt="image" width="512" height="315"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Website Downloader</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-website-downloader.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-website-downloader.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:44:51+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi Windows untuk men-download seluruh isi website. Aplikasi ini mungkin bermanfaat saat Anda perlu men-download seluruh isi website Anda, kemudian menyimpannya sebagai PDF atau PNG. Sebagai contoh kasus, saat Anda menemukan website bagus yang&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi Windows untuk men-download seluruh isi website.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Aplikasi ini mungkin bermanfaat saat Anda perlu men-download seluruh isi website Anda, kemudian menyimpannya sebagai PDF atau PNG.</p>
-<p>Sebagai contoh kasus, saat Anda menemukan website bagus yang ingin Anda baca content-nya secara offline.</p>
-<p>Atau, saat Anda ingin mem-backup website Anda, tapi dalam bentuk yang siap baca.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Fitur utamanya adalah:</p>
-<ul>
-<li>Download seluruh isi website dan menyimpannya sebagai PDF atau PNG</li>
-<li>Proxy, belum dicoba</li>
-<li>Download limiter</li>
-<li>Download excluder</li>
-<li>Dan lain-lain</li>
-</ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini belum pernah ada sebelumnya.</p>
-<p>Ada yang serupa memang, tapi tidak bisa men-download dalam bentuk PDF dan PNG.</p>
-<p>Penggunaan PDF dan PNG lebih menguntungkan karena single file dan lebih rapi.</p>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini dibuat dengan menggunakan Electron js.</p>
-<p>Untuk antarmukanya, HTML, CSS, dan JS digunakan, sehingga lebih fleksibel dan kaya.</p>
-<p>Dalam penerapannya, digunakan juga Bootstrap CSS sebagai library CSS.</p>
-<h2>Antarmuka</h2>
-<p>Berikut ini adalah screencast-nya:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/1IqoOQHExfY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot-nya:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-1.png" data-size="512x321"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="321"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-2.png" data-size="512x321"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="321"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-3.png" data-size="512x321"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/7/gallery/screenshot-3-thumbnail.png" alt="image" width="512" height="321"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aplikasi Desktop Embed Protector</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://www.rakifsul.my.id/aplikasi-desktop-embed-protector.html"/>
-        <id>https://www.rakifsul.my.id/aplikasi-desktop-embed-protector.html</id>
-            <category term="Portfolio"/>
-
-        <updated>2024-02-18T03:44:37+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda. Aplikasi ini adalah aplikasi Windows yang berguna untuk memaketkan YouTube video embed dan PDF ke dalam executable. Kenapa harus dipaketkan ke executable? Karena, mungkin saja, Anda ingin men-share sekumpulan video YouTube unlisted tanpa ingin memberikan info tentang&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>Disclaimer: Gambar hanya ilustrasi. Hasilnya bisa jadi berbeda.</p>
-</blockquote>
-<p>Aplikasi ini adalah aplikasi Windows yang berguna untuk memaketkan YouTube video embed dan PDF ke dalam executable.</p>
-<h2>Masalah yang Diselesaikan</h2>
-<p>Kenapa harus dipaketkan ke executable?</p>
-<p>Karena, mungkin saja, Anda ingin men-share sekumpulan video YouTube unlisted tanpa ingin memberikan info tentang sumbernya.</p>
-<p>Hal tersebut mungkin saja terjadi saat Anda ingin menjual akses video course secara mandiri tanpa harus setup server sendiri.</p>
-<p>Selain itu, hal yang serupa juga bisa dilakukan untuk file PDF.</p>
-<h2>Fitur Aplikasi Ini</h2>
-<p>Aplikasi ini juga support fitur password, sehingga user yang tidak diinginkan tidak bisa membuka konten yang dipaket.</p>
-<p>Aplikasi ini dibuat menggunakan Electron js dan NW.js.</p>
-<p>Fitur-fitur utama:</p>
-<ul>
-<li>Memaketkan YouTube video embed dalam sebuah exe</li>
-<li>Memaketkan file PDF dalam sebuah exe</li>
-<li>Proteksi password</li>
-<li>Dan lain-lain</li>
-</ul>
-<h2>Keunggulan Aplikasi Ini</h2>
-<p>Aplikasi ini lebih baik daripada alternatif lainnya.</p>
-<p>Kenapa?</p>
-<p>Karena tidak ada aplikasi lain yang seperti ini.</p>
-<h2>Teknologi yang Digunakan</h2>
-<p>Aplikasi ini menggunakan Electron js sebagai core-nya.</p>
-<p>Dengan tampilan yang didesain dengan HTML, CSS, dan JS, maka semua itu lebih fleksibel dan memiliki tampilan yang kaya.</p>
-<p>Hingga versi terbaru, bundler menggunakan NW.js walaupun saya mempertimbangkan untuk menggunakan yang lain jika ada yang lebih kecil, cepat, namun fungsional.</p>
-<h2>Antarmuka</h2>
-<p>Berikut ini adalah screencast-nya:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ToLB1pk_F8w" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Berikut ini adalah screenshot-nya:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-1.png" data-size="512x386"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-1-thumbnail.png" alt="image" width="512" height="386"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-2.png" data-size="512x386"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-2-thumbnail.png" alt="image" width="512" height="386"></a></figure>
-<figure class="gallery__item"><a href="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-3.png" data-size="512x386"><img loading="lazy" src="https://www.rakifsul.my.id/media/posts/6/gallery/screenshot-3-thumbnail.png" alt="image" width="512" height="386"></a></figure>
-</div></div>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://projects.co.id/public/browse_users/view/99bc11/rakifsul" rel="nofollow noopener noreferrer" target="_blank">gunakan saya</a></p>
             ]]>
         </content>
     </entry>
