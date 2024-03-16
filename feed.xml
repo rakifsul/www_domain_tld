@@ -3,7 +3,7 @@
     <title>RAKIFSUL</title>
     <link href="https://www.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://www.rakifsul.my.id" />
-    <updated>2024-03-15T05:07:54+07:00</updated>
+    <updated>2024-03-16T23:44:05+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/tips-memperbaiki-bug-saat-coding.html"/>
         <id>https://www.rakifsul.my.id/tips-memperbaiki-bug-saat-coding.html</id>
-            <category term="Awareness IT"/>
+            <category term="Coding"/>
             <category term="Awareness"/>
 
         <updated>2024-03-05T18:26:49+07:00</updated>
@@ -118,7 +118,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/tips-memecahkan-masalah-coding.html"/>
         <id>https://www.rakifsul.my.id/tips-memecahkan-masalah-coding.html</id>
-            <category term="Awareness IT"/>
+            <category term="Coding"/>
             <category term="Awareness"/>
 
         <updated>2024-03-05T18:26:58+07:00</updated>
@@ -203,7 +203,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/jadikan-internet-dan-pengalaman-sebagai-mentor-codingmu.html"/>
         <id>https://www.rakifsul.my.id/jadikan-internet-dan-pengalaman-sebagai-mentor-codingmu.html</id>
-            <category term="Awareness IT"/>
+            <category term="Coding"/>
             <category term="Awareness"/>
 
         <updated>2024-03-05T18:27:06+07:00</updated>
@@ -280,7 +280,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/cara-saya-mengatasi-bosan-coding.html"/>
         <id>https://www.rakifsul.my.id/cara-saya-mengatasi-bosan-coding.html</id>
-            <category term="Awareness IT"/>
+            <category term="Coding"/>
             <category term="Awareness"/>
 
         <updated>2024-03-05T18:27:14+07:00</updated>
@@ -394,7 +394,7 @@
         </author>
         <link href="https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html"/>
         <id>https://www.rakifsul.my.id/anda-bingung-memilih-bahasa-pemrograman-baca-ini-dulu.html</id>
-            <category term="Awareness IT"/>
+            <category term="Coding"/>
             <category term="Awareness"/>
 
         <updated>2024-03-05T18:27:23+07:00</updated>
@@ -453,10 +453,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html"/>
         <id>https://www.rakifsul.my.id/kenapa-saya-menggunakan-contoh-project-yang-relatif-sederhana-untuk-belajar-coding.html</id>
-            <category term="Consideration IT"/>
             <category term="Consideration"/>
+            <category term="Coding"/>
 
-        <updated>2024-03-15T05:07:54+07:00</updated>
+        <updated>2024-03-16T23:43:53+07:00</updated>
             <summary>
                 <![CDATA[
                     Di tahun 2024 ini, jika Anda melihat-lihat marketplace maupun website kursus online, mungkin Anda akan sering menemukan beragam kursus pemrograman. Bahkan, tidak jarang pula yang menyajikan proses pembuatan aplikasi tertentu dari awal hingga selesai, yang biasa mereka sebut sebagai studi kasus atau case study. Itu&hellip;
@@ -526,10 +526,10 @@
         </author>
         <link href="https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html"/>
         <id>https://www.rakifsul.my.id/ini-alasannya-anda-perlu-belajar-coding-dengan-membaca-kode.html</id>
-            <category term="Consideration IT"/>
             <category term="Consideration"/>
+            <category term="Coding"/>
 
-        <updated>2024-03-05T18:36:25+07:00</updated>
+        <updated>2024-03-16T23:44:05+07:00</updated>
             <summary>
                 <![CDATA[
                     Membaca kode untuk memahami sebuah program mungkin umum dilakukan, bahkan sebagai programmer pemula sekalipun. Namun aktifitas ini mungkin tersamarkan dengan video tutorial dan ebook yang kita baca. Kita menyangka bahwa kita telah belajar dari video ataupun ebook, walaupun ujungnya, kita harus memahami kode yang diberikan&hellip;
